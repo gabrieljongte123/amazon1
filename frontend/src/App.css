@@ -1,0 +1,198 @@
+/* IntentFlow Global Styles - Amazon Brand Palette */
+
+:root {
+  /* Colors */
+  --color-primary: #232f3e;
+  --color-primary-light: #37475a;
+  --color-accent: #ff9900;
+  --color-accent-hover: #e68a00;
+  --color-background: #f5f5f5;
+  --color-surface: #ffffff;
+  --color-text: #0f1111;
+  --color-text-secondary: #565959;
+  --color-border: #d5d9d9;
+  --color-success: #067d62;
+  --color-error: #b12704;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 48px;
+
+  /* Typography */
+  --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.5rem;
+  --font-size-2xl: 2rem;
+
+  /* Border radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+  background-color: var(--color-background);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* App layout */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background-color: var(--color-primary);
+  color: white;
+  padding: var(--spacing-md) var(--spacing-lg);
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.app-header__logo {
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  color: var(--color-accent);
+}
+
+.app-header__logo-img {
+  height: 32px;
+  width: auto;
+  object-fit: contain;
+}
+
+.app-header__title {
+  font-size: var(--font-size-base);
+  font-weight: 400;
+  opacity: 0.9;
+}
+
+.app-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header improvements */
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.app-header__left {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.app-header__right {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.app-header__tagline {
+  font-size: var(--font-size-sm);
+  color: rgba(255,255,255,0.7);
+  font-style: italic;
+}
+
+/* Full-page shopping background */
+.app::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('/shop.jpg') center center / cover no-repeat;
+  opacity: 0.06;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.app-main {
+  position: relative;
+  z-index: 1;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  .chat-bubble__product-card {
+    width: 100%;
+  }
+
+  .chat-bubble__product-actions {
+    flex-wrap: wrap;
+  }
+
+  .chat-bubble__add-cart-btn,
+  .chat-bubble__buy-now-btn,
+  .chat-bubble__view-amazon-btn {
+    flex: 1 1 30%;
+    font-size: 0.65rem;
+    padding: 5px 6px;
+    min-width: 0;
+  }
+
+  .chat-bubble__product-info {
+    min-width: 0;
+  }
+
+  .chat-bubble__product-title {
+    font-size: 0.8rem;
+    word-break: break-word;
+  }
+}

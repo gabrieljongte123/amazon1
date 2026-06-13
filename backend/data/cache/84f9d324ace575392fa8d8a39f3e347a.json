@@ -1,0 +1,40 @@
+{
+  "searchTerm": "wrench",
+  "products": [
+    {
+      "productId": "B09LQZKMF8",
+      "title": "Taparia 1172-10 Adjustable Spanner Chrome Finish 255mm",
+      "brand": "Taparia",
+      "price": 459,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/31Lj4HE6jML._SY300_SX300_.jpg",
+      "url": "https://www.amazon.in/dp/B09LQZKMF8",
+      "isPrime": true,
+      "reviewCount": 1250
+    },
+    {
+      "productId": "B07VQLM4H6",
+      "title": "Stanley 70-882E 8 Piece Combination Wrench Set",
+      "brand": "Stanley",
+      "price": 999,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61b3vsCVURL._SX522_.jpg",
+      "url": "https://www.amazon.in/dp/B07VQLM4H6",
+      "isPrime": true,
+      "reviewCount": 890
+    },
+    {
+      "productId": "B01AHGTSQS",
+      "title": "Ambika AO-S Adjustable Wrench 150mm Drop Forged",
+      "brand": "Ambika",
+      "price": 289,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/41J3lVT3SrL._SX522_.jpg",
+      "url": "https://www.amazon.in/dp/B01AHGTSQS",
+      "isPrime": true,
+      "reviewCount": 650
+    }
+  ],
+  "source": "manual",
+  "domain": "amazon.in"
+}

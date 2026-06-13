@@ -1,0 +1,79 @@
+{
+  "pairs": {
+    "wire cutter": ["screwdriver", "pliers", "electrical tape", "wire stripper"],
+    "pliers": ["screwdriver", "wrench", "wire cutter", "hammer"],
+    "screwdriver": ["pliers", "drill", "screws set", "tool kit"],
+    "wrench": ["pliers", "screwdriver", "nut bolt set", "tool kit"],
+    "hammer": ["nails", "measuring tape", "screwdriver", "pliers"],
+    "drill": ["drill bits", "screwdriver", "measuring tape", "safety goggles"],
+    "tool kit": ["drill", "measuring tape", "safety goggles", "work gloves"],
+
+    "iphone": ["phone case", "screen protector", "charger", "airpods"],
+    "smartphone": ["phone case", "screen protector", "charger", "earbuds"],
+    "earbuds": ["earbuds case", "charging cable", "ear tips"],
+    "headphones": ["headphone stand", "audio cable", "ear cushions"],
+    "laptop": ["laptop sleeve", "mouse", "keyboard", "usb hub"],
+    "charger": ["charging cable", "power bank", "cable organizer"],
+    "power bank": ["charging cable", "phone holder", "cable organizer"],
+    "printer ink": ["printer paper", "ink refill kit", "photo paper"],
+
+    "shoes": ["socks", "shoe cleaner", "insoles", "shoe rack"],
+    "sneakers": ["socks", "shoe cleaner", "shoe deodorizer", "laces"],
+    "slippers": ["socks", "foot cream", "shoe rack"],
+    "jeans": ["belt", "t-shirt", "wallet"],
+    "t-shirt": ["jeans", "shorts", "cap"],
+    "underwear": ["vest", "socks", "innerwear wash"],
+    "socks": ["shoes", "foot spray", "shoe insoles"],
+    "track pants": ["t-shirt", "sports shoes", "gym bag"],
+
+    "dumbbells": ["gym gloves", "yoga mat", "resistance bands", "protein powder"],
+    "yoga mat": ["yoga blocks", "resistance bands", "water bottle", "towel"],
+    "resistance bands": ["yoga mat", "dumbbells", "foam roller"],
+    "protein powder": ["shaker bottle", "gym gloves", "resistance bands"],
+    "gym gloves": ["dumbbells", "wrist wraps", "gym bag"],
+    "skipping rope": ["yoga mat", "sports shoes", "water bottle"],
+
+    "face wash": ["moisturizer", "sunscreen", "face serum", "toner"],
+    "face serum": ["moisturizer", "sunscreen", "face wash"],
+    "sunscreen": ["moisturizer", "face wash", "lip balm"],
+    "shampoo": ["conditioner", "hair serum", "hair oil"],
+    "hair clips": ["hair bands", "hair serum", "comb"],
+    "moisturizer": ["sunscreen", "face wash", "lip balm"],
+
+    "dog food": ["dog treats", "dog bowl", "leash", "pet toys"],
+    "cat food": ["cat litter", "cat toys", "scratching post"],
+    "pet toys": ["pet treats", "pet bed", "collar"],
+
+    "chocolate": ["gift box", "greeting card", "flowers", "dry fruits"],
+    "coffee": ["mug", "sugar", "creamer", "biscuits"],
+    "tea": ["mug", "sugar", "biscuits", "honey"],
+    "noodles": ["sauce", "vegetables", "eggs", "chopsticks"],
+    "chips": ["dip", "cold drink", "popcorn"],
+    "biscuits": ["tea", "coffee", "milk"],
+
+    "pressure cooker": ["cookware set", "ladle set", "gas lighter"],
+    "cookware": ["spatula", "ladle set", "oil", "spices"],
+    "water bottle": ["lunch box", "bag", "napkin"],
+    "bedsheet": ["pillow covers", "mattress protector", "comforter"],
+    "curtains": ["curtain rod", "hooks", "tiebacks"],
+    "bean bag": ["floor cushion", "rug", "side table"],
+
+    "diapers": ["baby wipes", "rash cream", "baby powder"],
+    "baby oil": ["baby lotion", "baby wipes", "baby shampoo"],
+    "feeding bottle": ["bottle brush", "sterilizer", "bibs"],
+    "stroller": ["diaper bag", "car seat", "baby blanket"],
+
+    "tripod": ["phone mount", "ring light", "microphone"],
+    "helmet": ["gloves", "knee guard", "elbow guard"],
+    "backpack": ["water bottle", "lunch box", "pencil box"],
+    "wallet": ["belt", "key chain", "card holder"],
+
+    "rc car": ["batteries", "remote control", "toy tools"],
+    "lego": ["storage box", "baseplate", "mini figures"],
+    "board games": ["cards", "dice set", "game timer"],
+
+    "books": ["bookmark", "reading light", "book stand"],
+    "notebook": ["pens", "highlighters", "sticky notes"],
+    "pens": ["notebook", "pencil case", "eraser"]
+  }
+}

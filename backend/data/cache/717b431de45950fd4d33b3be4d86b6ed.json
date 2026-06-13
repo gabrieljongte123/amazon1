@@ -1,0 +1,40 @@
+{
+  "searchTerm": "storage containers",
+  "products": [
+    {
+      "productId": "B01LYBZX6Y",
+      "title": "CELLO Checkers Kitchen Storage Container Box Set of 18 Pcs Brown (6x300ml, 6x650ml, 6x1200ml) | Transparent Unbreakable Fridge Safe Stackable Airtight Storage Canister Set For Spices Dry Fruits Grains",
+      "brand": "",
+      "price": 549.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71PjqF8xEFL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/CELLO-Container-Transparent-Unbreakable-Stackable/dp/B01LYBZX6Y/ref=sr_1_1?dib=eyJ2IjoiMSJ9.D8hhAOVgRNRAMWff9bqC0vLs5KCGY0swJvV_OSk_HLsy9KfAeQTFOPgP7lNdGjswADsPgBZbJHl6S4ZhkGHpixEC_VeC7uF0td_F6W6Tvw89QDmoQ_1SVV43t0m1dyz796UjO1EClnxadT2Q7FQ3ZUTbjle_mQBm20VHE4MTEWNQH5TmJGYj7ziuuxs1Y9PlUbhXLpt0BR5tc4bSmAird6HRleYBs6bF2QLCOA237DLjk7Dy8xFtSETM6biOedRSJ4s5Q9ULvj5R4NqpUnLYsb87JQXyGZ_hj9KbUajnkmo.OxjTqU31yh5E0AdkcWvEInePFouFt4hsc-aMkMPCGXI&dib_tag=se&keywords=storage+containers&qid=1781331706&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 71862
+    },
+    {
+      "productId": "B0B7B26XVF",
+      "title": "FLAIR Storewell Square Plastic Food Storage Container Set, Airtight Kitchen Containers for Rice, Atta & Grains, BPA-Free, Food Grade Storage Boxes (Blue, Set of 3 (2.4L, 6L, 8L))",
+      "brand": "",
+      "price": 399.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/71it8TPi6dL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Flair-Storewell-Square-Containers-2400/dp/B0B7B26XVF/ref=sr_1_2?dib=eyJ2IjoiMSJ9.D8hhAOVgRNRAMWff9bqC0vLs5KCGY0swJvV_OSk_HLsy9KfAeQTFOPgP7lNdGjswADsPgBZbJHl6S4ZhkGHpixEC_VeC7uF0td_F6W6Tvw89QDmoQ_1SVV43t0m1dyz796UjO1EClnxadT2Q7FQ3ZUTbjle_mQBm20VHE4MTEWNQH5TmJGYj7ziuuxs1Y9PlUbhXLpt0BR5tc4bSmAird6HRleYBs6bF2QLCOA237DLjk7Dy8xFtSETM6biOedRSJ4s5Q9ULvj5R4NqpUnLYsb87JQXyGZ_hj9KbUajnkmo.OxjTqU31yh5E0AdkcWvEInePFouFt4hsc-aMkMPCGXI&dib_tag=se&keywords=storage+containers&qid=1781331706&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 1335
+    },
+    {
+      "productId": "B0DYXVWC5B",
+      "title": "GOLWYN Polyethylene Terephthalate (PET) Airtight Containers Kitchen Storage Box, Food Storage Container, Stackable & Transparent Organizer Jars, Masala Dabba Container, Set of 6 (1200ml each)",
+      "brand": "",
+      "price": 625.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/71auAIxh1PL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/GOLWYN-Polyethylene-Terephthalate-Containers-Transparent/dp/B0DYXVWC5B/ref=sr_1_3?dib=eyJ2IjoiMSJ9.D8hhAOVgRNRAMWff9bqC0vLs5KCGY0swJvV_OSk_HLsy9KfAeQTFOPgP7lNdGjswADsPgBZbJHl6S4ZhkGHpixEC_VeC7uF0td_F6W6Tvw89QDmoQ_1SVV43t0m1dyz796UjO1EClnxadT2Q7FQ3ZUTbjle_mQBm20VHE4MTEWNQH5TmJGYj7ziuuxs1Y9PlUbhXLpt0BR5tc4bSmAird6HRleYBs6bF2QLCOA237DLjk7Dy8xFtSETM6biOedRSJ4s5Q9ULvj5R4NqpUnLYsb87JQXyGZ_hj9KbUajnkmo.OxjTqU31yh5E0AdkcWvEInePFouFt4hsc-aMkMPCGXI&dib_tag=se&keywords=storage+containers&qid=1781331706&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 805
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

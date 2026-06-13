@@ -1,0 +1,41 @@
+.connection-status {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-sm) var(--spacing-md);
+  background-color: var(--color-error);
+  color: #ffffff;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  transform: translateY(-100%);
+  transition: transform 0.3s ease-in-out;
+}
+
+.connection-status--visible {
+  transform: translateY(0);
+}
+
+.connection-status__icon {
+  width: 16px;
+  height: 16px;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  position: relative;
+}
+
+.connection-status__icon::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 8px;
+  height: 2px;
+  background: #ffffff;
+  transform: translate(-50%, -50%) rotate(45deg);
+}

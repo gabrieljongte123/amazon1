@@ -1,0 +1,40 @@
+{
+  "searchTerm": "diapers",
+  "products": [
+    {
+      "productId": "B07Y8S7T6M",
+      "title": "Mamypoko pants All night absorb| Pant Style Baby Diapers Large Size(L), 62 Count, Ideal for 9-14Kgs|1 Diaper= Upto All night Absorption|Wider Crisscross Sheet|Gentle Coco Care| 12hr Leakage Protection| Prevents Heaviness.",
+      "brand": "",
+      "price": 550.0,
+      "rating": 3.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71TtJgeRuIL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Mamypoko-Repeated-Absorption-Protection-Heaviness/dp/B07Y8S7T6M/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Rmr0-T8nY-sPVXgEQHSm4TpjiIW-YfX7Kr0dRtfsvMjOE7Fwe5oDHa6ba_1nU77q3fqS2WJL70nzZUT8dvbY7yJZqU00euiA6xAVjmf1XKDHL1o1mA43LFcFdnQtBlhIv_StwLQfrQWq__A2-syhCz1kXqR9m7-9ZCRVRX8NukkY8qZLXoxTDplNbk4FY_XG2v8jNZ-OzHGOCVlE52tYVJoYxrxpXFUm_xl0TSCMrpaEswPEfiGQsWtYmUf5DuWThVuj4KFF5sc3k-NI-TxQlrliNCjKd4a-wNe7LfUn3jc.D3P-ug-zHO9KmEgToW2At1JN_ALkTy2E-tlZCx5_TOM&dib_tag=se&keywords=diapers&qid=1781331877&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 5029
+    },
+    {
+      "productId": "B09MVWHJ9J",
+      "title": "LuvLap Pant Style Baby Diapers, Large (L), 62 Count, For babies of Upto 9-14Kg with Aloe Vera Lotion for rash protection, with upto 12hr protection, Diapers",
+      "brand": "",
+      "price": 547.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/61gpUlMLoGL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/LuvLap-Diaper-9-14Kg-Lotion-protection/dp/B09MVWHJ9J/ref=sr_1_2_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.Rmr0-T8nY-sPVXgEQHSm4TpjiIW-YfX7Kr0dRtfsvMjOE7Fwe5oDHa6ba_1nU77q3fqS2WJL70nzZUT8dvbY7yJZqU00euiA6xAVjmf1XKDHL1o1mA43LFcFdnQtBlhIv_StwLQfrQWq__A2-syhCz1kXqR9m7-9ZCRVRX8NukkY8qZLXoxTDplNbk4FY_XG2v8jNZ-OzHGOCVlE52tYVJoYxrxpXFUm_xl0TSCMrpaEswPEfiGQsWtYmUf5DuWThVuj4KFF5sc3k-NI-TxQlrliNCjKd4a-wNe7LfUn3jc.D3P-ug-zHO9KmEgToW2At1JN_ALkTy2E-tlZCx5_TOM&dib_tag=se&keywords=diapers&qid=1781331877&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 18414
+    },
+    {
+      "productId": "B09ZHVFG3V",
+      "title": "TEDDYY Easy Baby L Size Diaper Pant Style | 62 Count (Large) | 9–14 kg (Pack of 1) | Long Protection Hours | Anti-Bacterial | Airy Breathable Fit | Rapid Soaker Channels & Wetness Indicator",
+      "brand": "",
+      "price": 529.0,
+      "rating": 3.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/61rLtlJUOFL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/TEDDYY-Easy-Protection-Anti-Bacterial-Breathable/dp/B09ZHVFG3V/ref=sr_1_3_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.Rmr0-T8nY-sPVXgEQHSm4TpjiIW-YfX7Kr0dRtfsvMjOE7Fwe5oDHa6ba_1nU77q3fqS2WJL70nzZUT8dvbY7yJZqU00euiA6xAVjmf1XKDHL1o1mA43LFcFdnQtBlhIv_StwLQfrQWq__A2-syhCz1kXqR9m7-9ZCRVRX8NukkY8qZLXoxTDplNbk4FY_XG2v8jNZ-OzHGOCVlE52tYVJoYxrxpXFUm_xl0TSCMrpaEswPEfiGQsWtYmUf5DuWThVuj4KFF5sc3k-NI-TxQlrliNCjKd4a-wNe7LfUn3jc.D3P-ug-zHO9KmEgToW2At1JN_ALkTy2E-tlZCx5_TOM&dib_tag=se&keywords=diapers&qid=1781331877&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 8978
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

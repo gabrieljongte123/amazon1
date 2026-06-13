@@ -1,0 +1,40 @@
+{
+  "searchTerm": "mixer grinder",
+  "products": [
+    {
+      "productId": "B0DFCK2BJ2",
+      "title": "Prestige Apex 500 Watt Mixer Grinder with 3 Stainless Steel Jars | Super Efficient SS Blades | Black | 2Y Warranty | ISI Certified",
+      "brand": "",
+      "price": 2199.0,
+      "rating": 3.9,
+      "imageUrl": "https://m.media-amazon.com/images/I/61EMMoH0bBL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0OTcyNjUzNjU0OTc5MDAyOjE3ODEzMzE2OTU6c3BfYXRmOjMwMDc0Njc1NDc0ODczMjo6MDo6&url=%2FPrestige-Grinder-Stainless-Efficient-Handles%2Fdp%2FB0DFCK2BJ2%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.Arw26KQp9E3iUiou-Gcwb8kGN2Hxrq9cmxqynMPrOKTOX06_-Yev1v6jIL6Vtb-CodYznBQaxDrNHRqGHBpNDGecnP5QZy_H1yqpuhPCQh9H0ydDv2vkRdPn_tGL-KDs4fwjIo3Jk7x9pfvej9o-9iwO-pQvtShhxi2GKgQKDEoY04lCKOHAYBdCv4-PsSu5QGS6s_O8wB58CDdNajkCD0apVK40alGOdcPV1zNuIrU.YkaxqkBlGuiyamb5BSC7RT6NNhb8ReYfEkXnmJVZbnI%26dib_tag%3Dse%26keywords%3Dmixer%2Bgrinder%26qid%3D1781331695%26sr%3D8-1-spons%26aref%3D4OKPfhab92%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=4OKPfhab92&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 1159
+    },
+    {
+      "productId": "B0DCW2V9KW",
+      "title": "Bajaj Military Series Rex 750W 4 Jar Mixer Grinder | DuraCut Blades | 2-In-1 Function Blade In Dry Jar | 2 Yrs Warranty 【Red/Black】",
+      "brand": "",
+      "price": 3699.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61sCe0kgJdL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0OTcyNjUzNjU0OTc5MDAyOjE3ODEzMzE2OTU6c3BfYXRmOjMwMTA3NDEwMjg1MDUzMjo6MDo6&url=%2FBajaj-Military-Grinder-Function-Warranty%2Fdp%2FB0DCW2V9KW%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.Arw26KQp9E3iUiou-Gcwb8kGN2Hxrq9cmxqynMPrOKTOX06_-Yev1v6jIL6Vtb-CodYznBQaxDrNHRqGHBpNDGecnP5QZy_H1yqpuhPCQh9H0ydDv2vkRdPn_tGL-KDs4fwjIo3Jk7x9pfvej9o-9iwO-pQvtShhxi2GKgQKDEoY04lCKOHAYBdCv4-PsSu5QGS6s_O8wB58CDdNajkCD0apVK40alGOdcPV1zNuIrU.YkaxqkBlGuiyamb5BSC7RT6NNhb8ReYfEkXnmJVZbnI%26dib_tag%3Dse%26keywords%3Dmixer%2Bgrinder%26qid%3D1781331695%26sr%3D8-2-spons%26aref%3DFBDcDHAfXP%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=FBDcDHAfXP&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 5863
+    },
+    {
+      "productId": "B09X5C9VLK",
+      "title": "Lifelong LLMG23 Power Pro 500-Watt Mixer Grinder with 3 Jars (Liquidizing, Wet Grinding and Chutney Jar), Stainless Steel blades, 1 Year Warranty (Black)",
+      "brand": "",
+      "price": 1265.0,
+      "rating": 3.9,
+      "imageUrl": "https://m.media-amazon.com/images/I/61wXEocUsyL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Lifelong-LLMG23-500-Watt-Liquidizing-Stainless/dp/B09X5C9VLK/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Arw26KQp9E3iUiou-Gcwb8kGN2Hxrq9cmxqynMPrOKTOX06_-Yev1v6jIL6Vtb-CodYznBQaxDrNHRqGHBpNDGecnP5QZy_H1yqpuhPCQh9H0ydDv2vkRdPn_tGL-KDs4fwjIo3Jk7x9pfvej9o-9iwO-pQvtShhxi2GKgQKDEoY04lCKOHAYBdCv4-PsSu5QGS6s_O8wB58CDdNajkCD0apVK40alGOdcPV1zNuIrU.YkaxqkBlGuiyamb5BSC7RT6NNhb8ReYfEkXnmJVZbnI&dib_tag=se&keywords=mixer+grinder&qid=1781331695&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 51306
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

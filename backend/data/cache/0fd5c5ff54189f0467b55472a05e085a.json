@@ -1,0 +1,40 @@
+{
+  "searchTerm": "dash cam",
+  "products": [
+    {
+      "productId": "B0F4FZ47FQ",
+      "title": "Car Dash Camera Pro X 3MP 1296p from Super Capacitor| Wide Angle View | Emergency Recording | SD Card Upto 1TB Supported | Easy DIY Set Up | (Midnight Blue)",
+      "brand": "",
+      "price": 999.0,
+      "rating": 3.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/71OK37xSVDL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Capacitor-Emergency-Recording-Supported-Midnight/dp/B0F4FZ47FQ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.9DJZEkC3s0O5Md9SMc-lkeYmrtFjJblpgGqtfWmJXS3JluzwxV9w2dGX7xRsAp3Q_vTM1xN-gLTzK4WCdeGts7LPZ9ED1Y4ixKh94d-Ovw9LsmCBZoQ2JRXRY_I20B_1WUUVVa429b2PNIkpu9yN3HYDcs1tPHtA11B02dYAj3p6OpKSuP6e3p_tV-ARGRaZYuSXwhFY1U-hkaMAsvv5xhf2UrM2mk2kUQij3l6Rk50.J8LthlmpaT7BDl0Lu6LAiobg7v3FvTnonoOa1hdYb2c&dib_tag=se&keywords=dash+cam&qid=1781331840&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 52
+    },
+    {
+      "productId": "B0CGQXY29P",
+      "title": "Qubo Dashcam Pro X (2026 Edition) | 2K Resolution | Doubles up as in-Cabin Camera | NightPulse Vision | Wide FOV | Supercapacitor | Built in Wi-Fi, Mic | Up to 1TB Storage | Built for Indian Roads",
+      "brand": "",
+      "price": 3030.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71HO7ahB0TL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Qubo-NightPulse-Wide-Angle-Supercapacitor-G-Sensor/dp/B0CGQXY29P/ref=sr_1_2?dib=eyJ2IjoiMSJ9.9DJZEkC3s0O5Md9SMc-lkeYmrtFjJblpgGqtfWmJXS3JluzwxV9w2dGX7xRsAp3Q_vTM1xN-gLTzK4WCdeGts7LPZ9ED1Y4ixKh94d-Ovw9LsmCBZoQ2JRXRY_I20B_1WUUVVa429b2PNIkpu9yN3HYDcs1tPHtA11B02dYAj3p6OpKSuP6e3p_tV-ARGRaZYuSXwhFY1U-hkaMAsvv5xhf2UrM2mk2kUQij3l6Rk50.J8LthlmpaT7BDl0Lu6LAiobg7v3FvTnonoOa1hdYb2c&dib_tag=se&keywords=dash+cam&qid=1781331840&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 1334
+    },
+    {
+      "productId": "B0FGWMJKC1",
+      "title": "DDPAI Dash Cam for Car, 2K Resolution, with 3MP Camera | Emergency Accident Lock | Wi-Fi & App Control | Night Vision | 140° Wide Angle | Car Dashcam with G-Sensor | Built-in Super Capacitor",
+      "brand": "",
+      "price": 2699.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61EG1az+lhL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/PRO-Emergency-Accident-G-Sensor-Capacitor/dp/B0FGWMJKC1/ref=sr_1_3?dib=eyJ2IjoiMSJ9.9DJZEkC3s0O5Md9SMc-lkeYmrtFjJblpgGqtfWmJXS3JluzwxV9w2dGX7xRsAp3Q_vTM1xN-gLTzK4WCdeGts7LPZ9ED1Y4ixKh94d-Ovw9LsmCBZoQ2JRXRY_I20B_1WUUVVa429b2PNIkpu9yN3HYDcs1tPHtA11B02dYAj3p6OpKSuP6e3p_tV-ARGRaZYuSXwhFY1U-hkaMAsvv5xhf2UrM2mk2kUQij3l6Rk50.J8LthlmpaT7BDl0Lu6LAiobg7v3FvTnonoOa1hdYb2c&dib_tag=se&keywords=dash+cam&qid=1781331840&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 890
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

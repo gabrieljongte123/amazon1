@@ -1,0 +1,40 @@
+{
+  "searchTerm": "earbuds",
+  "products": [
+    {
+      "productId": "B0H28LBC3W",
+      "title": "Oppo Enco Air5 Pro True Wireless in-Ear Earbuds with 12mm Dynamic Driver and 55dB ANC with Hi-Res Audio with LHDC 5.0, 54Hrs Playtime,Low Latency,Fast Charging.(Matte Black)",
+      "brand": "",
+      "price": 4999.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61eknZLHzyL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NTg0OTkyNDI3OTgxNzA6MTc4MTMzMTYzMTpzcF9hdGY6MzAxMTE2NTg0NDQ2NTMyOjowOjo&url=%2FWireless-Earbuds-Dynamic-Playtime-Charging%2Fdp%2FB0H28LBC3W%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.wVcsYIodpy6NGIgIHh8k4DSLQ8bUUmQmZBSuu-iNvR68QOBhGPxPQBtcZBf8ks3JL7rODC8MBV_A-EtXmOAhQND0guOk6MZsvGPQ2hV-QYTyTizm5L4RCnjnGak6gXbZt741UBe47uKE5qkNqBIFQmpJ8kE4pycDl1T3SXIlSTymfUjTrb3NZMJqMX3U1Zz_Rr47aiJpNFJZFISXVmOMHd6jhSXnPzTozogAk7YPEEw.3UKbzJ35mZZpu1CQ0h3VqlLZYNkQMQG6kgRgbD5BSFk%26dib_tag%3Dse%26keywords%3Dearbuds%26qid%3D1781331631%26sr%3D8-1-spons%26aref%3DgKcUZDuAor%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=gKcUZDuAor&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 1222
+    },
+    {
+      "productId": "B0FM6B9Z45",
+      "title": "Fire-Boltt Aero TWS Earbuds Custom EQ, Wireless Bluetooth 5.4, Music & App Support, 50H Playtime, Fast Charging Case, 50ms Low Latency for Gaming, Touch Controls, IPX4 Waterproof, Clear Calls - Black",
+      "brand": "",
+      "price": 699.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/61IyZTvsfmL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NTg0OTkyNDI3OTgxNzA6MTc4MTMzMTYzMTpzcF9hdGY6MzAwOTMyOTc1NTE0NjMyOjowOjo&url=%2FFire-Boltt-Wireless-Bluetooth-Playtime-Waterproof%2Fdp%2FB0FM6B9Z45%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.wVcsYIodpy6NGIgIHh8k4DSLQ8bUUmQmZBSuu-iNvR68QOBhGPxPQBtcZBf8ks3JL7rODC8MBV_A-EtXmOAhQND0guOk6MZsvGPQ2hV-QYTyTizm5L4RCnjnGak6gXbZt741UBe47uKE5qkNqBIFQmpJ8kE4pycDl1T3SXIlSTymfUjTrb3NZMJqMX3U1Zz_Rr47aiJpNFJZFISXVmOMHd6jhSXnPzTozogAk7YPEEw.3UKbzJ35mZZpu1CQ0h3VqlLZYNkQMQG6kgRgbD5BSFk%26dib_tag%3Dse%26keywords%3Dearbuds%26qid%3D1781331631%26sr%3D8-2-spons%26aref%3D40idd4fojx%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=40idd4fojx&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 11333
+    },
+    {
+      "productId": "B0FC2YFSN4",
+      "title": "Boat Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment for Calling, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Forest Sage)",
+      "brand": "",
+      "price": 899.0,
+      "rating": 3.9,
+      "imageUrl": "https://m.media-amazon.com/images/I/61oPWuyuT2L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/boAt-Airdopes-Bluetooth-Wireless-Earphones/dp/B0FC2YFSN4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.wVcsYIodpy6NGIgIHh8k4DSLQ8bUUmQmZBSuu-iNvR68QOBhGPxPQBtcZBf8ks3JL7rODC8MBV_A-EtXmOAhQND0guOk6MZsvGPQ2hV-QYTyTizm5L4RCnjnGak6gXbZt741UBe47uKE5qkNqBIFQmpJ8kE4pycDl1T3SXIlSTymfUjTrb3NZMJqMX3U1Zz_Rr47aiJpNFJZFISXVmOMHd6jhSXnPzTozogAk7YPEEw.3UKbzJ35mZZpu1CQ0h3VqlLZYNkQMQG6kgRgbD5BSFk&dib_tag=se&keywords=earbuds&qid=1781331631&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 5444
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

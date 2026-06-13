@@ -1,0 +1,40 @@
+{
+  "searchTerm": "black shoes",
+  "products": [
+    {
+      "productId": "B0B9ZYRDLT",
+      "title": "Liberty Men Mesh Sneaker Shoes",
+      "brand": "Liberty",
+      "price": 611.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/514QFfCaPvL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Liberty-Force-Roger-Running-Shoe-7/dp/B0B9ZYRDLT/ref=sr_1_1?dib=eyJ2IjoiMSJ9._k50MnXdoiYm2d81get0X7hqOLuFGJK7pvhbypHh16lvm8ConUMrlHgO9A3DpEzJY-LvWb9V42iVRzXmEwL6T0V9DfBCGuS7JW800rGH3rtn9imfOFVa9EXZCEnNPvnSfMANcvNod_O0JixGtcWsdM0eh027yJIugWjJyjazjrx2dtKaBaKMtabC7bZ6FihBxGFE8c9u2I26T3oGbk7qtzZ-R3c4dRRiiUrf6tBAI2gt_sUc-ceuQFn8pqM6uGBgutzs7L2LnCdnY_UXX4Vk7SkcHCk38716RtM4QJ4C9nU.5L_Y6uxoqiz07e4yDtdmCNTqDlFqAaSlovG24YVJdY4&dib_tag=se&keywords=black+shoes&qid=1781331500&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 1163
+    },
+    {
+      "productId": "B0BFDFDZD1",
+      "title": "Bata Men's Lace-up Sports Shoe",
+      "brand": "Bata",
+      "price": 779.0,
+      "rating": 3.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/61e-L2SXe+L._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Bata-Speed-Black-Walking-Shoes/dp/B0BFDFDZD1/ref=sr_1_2?dib=eyJ2IjoiMSJ9._k50MnXdoiYm2d81get0X7hqOLuFGJK7pvhbypHh16lvm8ConUMrlHgO9A3DpEzJY-LvWb9V42iVRzXmEwL6T0V9DfBCGuS7JW800rGH3rtn9imfOFVa9EXZCEnNPvnSfMANcvNod_O0JixGtcWsdM0eh027yJIugWjJyjazjrx2dtKaBaKMtabC7bZ6FihBxGFE8c9u2I26T3oGbk7qtzZ-R3c4dRRiiUrf6tBAI2gt_sUc-ceuQFn8pqM6uGBgutzs7L2LnCdnY_UXX4Vk7SkcHCk38716RtM4QJ4C9nU.5L_Y6uxoqiz07e4yDtdmCNTqDlFqAaSlovG24YVJdY4&dib_tag=se&keywords=black+shoes&qid=1781331500&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 725
+    },
+    {
+      "productId": "B0BSLJ245T",
+      "title": "PUMA | Smashic Comfort Casual Sneakers",
+      "brand": "PUMA",
+      "price": 1569.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/41NtbP4mYoL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Puma-Unisex-Adult-Smashic-Black-Matte-Sneaker/dp/B0BSLJ245T/ref=sr_1_3?dib=eyJ2IjoiMSJ9._k50MnXdoiYm2d81get0X7hqOLuFGJK7pvhbypHh16lvm8ConUMrlHgO9A3DpEzJY-LvWb9V42iVRzXmEwL6T0V9DfBCGuS7JW800rGH3rtn9imfOFVa9EXZCEnNPvnSfMANcvNod_O0JixGtcWsdM0eh027yJIugWjJyjazjrx2dtKaBaKMtabC7bZ6FihBxGFE8c9u2I26T3oGbk7qtzZ-R3c4dRRiiUrf6tBAI2gt_sUc-ceuQFn8pqM6uGBgutzs7L2LnCdnY_UXX4Vk7SkcHCk38716RtM4QJ4C9nU.5L_Y6uxoqiz07e4yDtdmCNTqDlFqAaSlovG24YVJdY4&dib_tag=se&keywords=black+shoes&qid=1781331500&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 4412
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

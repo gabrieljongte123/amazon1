@@ -1,0 +1,40 @@
+{
+  "searchTerm": "dog food",
+  "products": [
+    {
+      "productId": "B0GYNR2XB8",
+      "title": "Meatiful Adult Dry Dog Food 20kg | Chicken Flavour | Supports Strong Bones & Teeth | Boost Immune System | Healthy Skin & Coat",
+      "brand": "",
+      "price": 1799.0,
+      "rating": 3.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/814ootA+aDL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMDM3MDA5NjQ3OTE1MTU2OjE3ODEzMzE3NjM6c3BfYXRmOjMwMTEzMjY3ODczNDczMjo6MDo6&url=%2FMeatiful-Chicken-Flavour-Supports-Healthy%2Fdp%2FB0GYNR2XB8%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.0aAV_Kg8__gL80SttfZpJ8g9C2HbT7pOHcg1T96YuNyFTcdfV7Ar8vN4fDIHDfOzqPHBqcam0IVRuWKdFS5VdYbcu22YBkOMuWjj52twI1mUgljcQ-xjREGHEon9YyA9LoODxxmhhpH6yTbExbm_A3N9DVI9yI-S4bbz2fCCuvas8jk3vQwpJNjCwvc4VXWdoMHSX04f_-YMIxwm6oxmfuoMD5S8jVeUY3gakAtL9nXa3qo5atE4zCsfKZn9T_tlhqBY8S2CrYcxomjmCPi74J2wP7_3JM2Dc9PAHUwyGLw.1aV-FeDIbU2q65jaI9vdNDpDyPSXxTOE5yxhYVxC20M%26dib_tag%3Dse%26keywords%3Ddog%2Bfood%26qid%3D1781331763%26sr%3D8-1-spons%26aref%3D18nngckBAE%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=18nngckBAE&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 3
+    },
+    {
+      "productId": "B0G1BB6LB7",
+      "title": "Good Dog Puppy Dry Dog Food | 1 Kg | Oven Baked | High Protein Dry Kibble for Healthy Growth, Digestive Health & Strong Immunity | Fresh Chicken & Eggs | Complete Nutrition for Puppies of All Breeds",
+      "brand": "",
+      "price": 531.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71jZ4YVHRxL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMDM3MDA5NjQ3OTE1MTU2OjE3ODEzMzE3NjM6c3BfYXRmOjMwMTEzOTA2NTQ5NTczMjo6MDo6&url=%2FChicken-Palatable-Immunity-Digestion-Nutritionally%2Fdp%2FB0G1BB6LB7%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.0aAV_Kg8__gL80SttfZpJ8g9C2HbT7pOHcg1T96YuNyFTcdfV7Ar8vN4fDIHDfOzqPHBqcam0IVRuWKdFS5VdYbcu22YBkOMuWjj52twI1mUgljcQ-xjREGHEon9YyA9LoODxxmhhpH6yTbExbm_A3N9DVI9yI-S4bbz2fCCuvas8jk3vQwpJNjCwvc4VXWdoMHSX04f_-YMIxwm6oxmfuoMD5S8jVeUY3gakAtL9nXa3qo5atE4zCsfKZn9T_tlhqBY8S2CrYcxomjmCPi74J2wP7_3JM2Dc9PAHUwyGLw.1aV-FeDIbU2q65jaI9vdNDpDyPSXxTOE5yxhYVxC20M%26dib_tag%3Dse%26keywords%3Ddog%2Bfood%26qid%3D1781331763%26sr%3D8-2-spons%26aref%3DURxxupJr85%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=URxxupJr85&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 42
+    },
+    {
+      "productId": "B0G19YV82M",
+      "title": "Good Dog Baked Chicken & Egg Dry Dog Food | 1 kg | Human Grade Ingredients | Complete & Balanced with Vitamins, Minerals & Indian Herbs to Support Gut Health | NutriFocus Dry Food for Adult Dogs",
+      "brand": "",
+      "price": 522.0,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/713cUChRIoL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMDM3MDA5NjQ3OTE1MTU2OjE3ODEzMzE3NjM6c3BfYXRmOjMwMTE0MTAwNzgxMjgzMjo6MDo6&url=%2FIngredients-Complete-Balanced-Vitamins-NutriFocus%2Fdp%2FB0G19YV82M%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.0aAV_Kg8__gL80SttfZpJ8g9C2HbT7pOHcg1T96YuNyFTcdfV7Ar8vN4fDIHDfOzqPHBqcam0IVRuWKdFS5VdYbcu22YBkOMuWjj52twI1mUgljcQ-xjREGHEon9YyA9LoODxxmhhpH6yTbExbm_A3N9DVI9yI-S4bbz2fCCuvas8jk3vQwpJNjCwvc4VXWdoMHSX04f_-YMIxwm6oxmfuoMD5S8jVeUY3gakAtL9nXa3qo5atE4zCsfKZn9T_tlhqBY8S2CrYcxomjmCPi74J2wP7_3JM2Dc9PAHUwyGLw.1aV-FeDIbU2q65jaI9vdNDpDyPSXxTOE5yxhYVxC20M%26dib_tag%3Dse%26keywords%3Ddog%2Bfood%26qid%3D1781331763%26sr%3D8-3-spons%26aref%3DhXEdeOUMP7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=hXEdeOUMP7&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 128
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

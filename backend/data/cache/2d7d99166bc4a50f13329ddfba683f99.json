@@ -1,0 +1,40 @@
+{
+  "searchTerm": "nike shoes",
+  "products": [
+    {
+      "productId": "B0CZHNKSYZ",
+      "title": "Nike Womens Journey Run Running Shoes",
+      "brand": "Nike",
+      "price": 8495.0,
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/71GpsiHII9L._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3MDE3NTE2MjYzNzM5OTE2OjE3ODEzMzE1MDU6c3BfYXRmOjMwMDk2MjU5MDY5NDYzMjo6MDo6&url=%2FNike-W-Journey-RUN-BLACK-WHITE-FJ7765-001-7UK%2Fdp%2FB0CZHNKSYZ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.RV0msAm8KALZvoI_PsJExI0NiI0nXl8MIE-0TdfTVZEnxiY1bPWSpdqeB6OkITx3ZlWTWt7wADUWAXw-cQJN3JR1cclFkn_fDXtlFP-xd14X8GI3rRA5vH1OMiqIDdBVXtQuMNNyslSqAX0yhFda2SXE7D_qUqIgNRh9aDJImPzDxVENXzB4cGpcIYOOS-ArFa58VnMHdFP6bgKCCLDEAZBgMbA7pzopH8tEdcSjW9apJU5rN3Grow9Rb5Uoibq0-gzmwi_FmSsq1mCBBCllrzxzEzDL7gtk05DUsG6-07Q.7D7xyiMuXavq_FX1DnxN85X6c6RaAwyyBloPMkeL1z8%26dib_tag%3Dse%26keywords%3Dnike%2Bshoes%26qid%3D1781331505%26sr%3D8-1-spons%26aref%3DHj0a9MXJLC%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Hj0a9MXJLC&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 70
+    },
+    {
+      "productId": "B00770CBBM",
+      "title": "Nike Mens Killshot Leather Tennis Shoes",
+      "brand": "Nike",
+      "price": 7995.0,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/71uD7zAkGcL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3MDE3NTE2MjYzNzM5OTE2OjE3ODEzMzE1MDU6c3BfYXRmOjMwMTAzMjA2OTA0NDczMjo6MDo6&url=%2FNike-Killshot-Midnight-Sneaker-10-432997-107%2Fdp%2FB00770CBBM%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.RV0msAm8KALZvoI_PsJExI0NiI0nXl8MIE-0TdfTVZEnxiY1bPWSpdqeB6OkITx3ZlWTWt7wADUWAXw-cQJN3JR1cclFkn_fDXtlFP-xd14X8GI3rRA5vH1OMiqIDdBVXtQuMNNyslSqAX0yhFda2SXE7D_qUqIgNRh9aDJImPzDxVENXzB4cGpcIYOOS-ArFa58VnMHdFP6bgKCCLDEAZBgMbA7pzopH8tEdcSjW9apJU5rN3Grow9Rb5Uoibq0-gzmwi_FmSsq1mCBBCllrzxzEzDL7gtk05DUsG6-07Q.7D7xyiMuXavq_FX1DnxN85X6c6RaAwyyBloPMkeL1z8%26dib_tag%3Dse%26keywords%3Dnike%2Bshoes%26qid%3D1781331505%26sr%3D8-2-spons%26aref%3DDKHSmnFUyC%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=DKHSmnFUyC&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 1564
+    },
+    {
+      "productId": "B0DS6L6TY9",
+      "title": "Nike Mens Court Shot Tennis Shoes",
+      "brand": "Nike",
+      "price": 6295.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/61pb+Zb+VzL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3MDE3NTE2MjYzNzM5OTE2OjE3ODEzMzE1MDU6c3BfYXRmOjMwMTAyMDA4NTc4NDAzMjo6MDo6&url=%2FNike-FQ8146-Court-Shot%2Fdp%2FB0DS6L6TY9%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.RV0msAm8KALZvoI_PsJExI0NiI0nXl8MIE-0TdfTVZEnxiY1bPWSpdqeB6OkITx3ZlWTWt7wADUWAXw-cQJN3JR1cclFkn_fDXtlFP-xd14X8GI3rRA5vH1OMiqIDdBVXtQuMNNyslSqAX0yhFda2SXE7D_qUqIgNRh9aDJImPzDxVENXzB4cGpcIYOOS-ArFa58VnMHdFP6bgKCCLDEAZBgMbA7pzopH8tEdcSjW9apJU5rN3Grow9Rb5Uoibq0-gzmwi_FmSsq1mCBBCllrzxzEzDL7gtk05DUsG6-07Q.7D7xyiMuXavq_FX1DnxN85X6c6RaAwyyBloPMkeL1z8%26dib_tag%3Dse%26keywords%3Dnike%2Bshoes%26qid%3D1781331505%26sr%3D8-3-spons%26aref%3DgOrTcMEsKO%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=gOrTcMEsKO&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 207
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

@@ -1,0 +1,40 @@
+{
+  "searchTerm": "fiction books",
+  "products": [
+    {
+      "productId": "8175992956",
+      "title": "The Time Machine by H. G. Wells | Premium Classic Edition | A Sci-Fi Masterpiece on Time Travel & the Future World | Time Travel Fiction Classic | Futuristic Fantasy Book | Victorian Literature | Original Premium Paperback Edition",
+      "brand": "",
+      "price": 119.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61MPEQWEPML._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Masterpiece-Futuristic-Victorian-Literature-Paperback/dp/8175992956/ref=sr_1_1?dib=eyJ2IjoiMSJ9.d_acnVFzpDwSjwpKbWt921Y_9mqtOP82J-4h8lwORSNNGdei-KnyDjJburBrIM5tpM1plq08NN4axtQEGQ-rd75O2TbL_mS4qiUSTCE1w4O6KbpZeHISo8kaIlOjRuIFxArVus7hT1MF-XkbaP0F0Lbnu4Bir101ORbTbGH8n3uqkpgW7aEuH8YXwspbERKF5FIt06VH-79v3PJxjulN4oq8k2f5qAALW3EWWcFb7AM.IHcLS-OOj-xpi5vM62mhVydlyJ37VGYOs7CT9ihPr5k&dib_tag=se&keywords=fiction+books&qid=1781331845&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 6057
+    },
+    {
+      "productId": "0241252083",
+      "title": "White Nights by Fyodor Dostoyevsky: A Timeless Story of Love, Longing & Solitude | Classic Fiction, Russian Literature, Romantic Novella | Penguin Little Black Classics",
+      "brand": "",
+      "price": 126.0,
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/41y8H3QmVqL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/White-Nights-Penguin-Little-Classics/dp/0241252083/ref=sr_1_2?dib=eyJ2IjoiMSJ9.d_acnVFzpDwSjwpKbWt921Y_9mqtOP82J-4h8lwORSNNGdei-KnyDjJburBrIM5tpM1plq08NN4axtQEGQ-rd75O2TbL_mS4qiUSTCE1w4O6KbpZeHISo8kaIlOjRuIFxArVus7hT1MF-XkbaP0F0Lbnu4Bir101ORbTbGH8n3uqkpgW7aEuH8YXwspbERKF5FIt06VH-79v3PJxjulN4oq8k2f5qAALW3EWWcFb7AM.IHcLS-OOj-xpi5vM62mhVydlyJ37VGYOs7CT9ihPr5k&dib_tag=se&keywords=fiction+books&qid=1781331845&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 5151
+    },
+    {
+      "productId": "1786583232",
+      "title": "Days at the Morisaki Bookshop: The perfect book to curl up with - for lovers of Japanese translated fiction everywhere",
+      "brand": "",
+      "price": 259.35,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71xxddxprOL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Days-Morisaki-Bookshop-International-Bestseller/dp/1786583232/ref=sr_1_3?dib=eyJ2IjoiMSJ9.d_acnVFzpDwSjwpKbWt921Y_9mqtOP82J-4h8lwORSNNGdei-KnyDjJburBrIM5tpM1plq08NN4axtQEGQ-rd75O2TbL_mS4qiUSTCE1w4O6KbpZeHISo8kaIlOjRuIFxArVus7hT1MF-XkbaP0F0Lbnu4Bir101ORbTbGH8n3uqkpgW7aEuH8YXwspbERKF5FIt06VH-79v3PJxjulN4oq8k2f5qAALW3EWWcFb7AM.IHcLS-OOj-xpi5vM62mhVydlyJ37VGYOs7CT9ihPr5k&dib_tag=se&keywords=fiction+books&qid=1781331845&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 12947
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

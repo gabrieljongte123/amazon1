@@ -1,0 +1,40 @@
+{
+  "searchTerm": "kitchen appliances",
+  "products": [
+    {
+      "productId": "B0FWY658SY",
+      "title": "Ninja Blast Portable Cordless Blender (BC151INEM) – 530ml | USB-C Rechargeable | Crushes Ice & Frozen Fruit | BPA Free, Leak-Proof Travel Lid Forest Green",
+      "brand": "",
+      "price": 5649.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61UueH8Y21L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozNzYzNzk4ODk2ODkwNDI6MTc4MTMzMjAzMTpzcF9hdGY6MzAxMDE4Njk0MDkyMzMyOjowOjo&url=%2FNinja-Portable-Cordless-Blender-BC151INEM%2Fdp%2FB0FWY658SY%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.hjw2iftBuImpbbtzN7CD3x8AlLB7lHeuK0N2Qcvacknuol2zBqDFLPxmLwQx0zAbGx3vD-FB3xLGKbO7j-MVgiKV7HaNJdynaub14d6Z89JvqDwFfdfiz67pXRNdVkii3Zat_FV2mMqYicGV0_4CXJedR8IkFYfmV2rq4dIYpXWe0ZJ_sBWPXG53ydP64rdtkSyP604e3_QfTr5MuePE-t38pIwiX_XFXQGvbPJIwt8.NoRBDUccZOc1eNFximWKIQPQJhE1e1Omnpdixgqvn1Y%26dib_tag%3Dse%26keywords%3Dkitchen%2Bappliances%26qid%3D1781332031%26sr%3D8-1-spons%26aref%3DyB9wln6736%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=yB9wln6736&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 2228
+    },
+    {
+      "productId": "B0FXLLB21N",
+      "title": "NUUK BRĪSK 6.5L 100% Toxin-Free Air Fryer with ILAG® CeramicTech™| 360˚ Even Cooking with Wide XL Basket | Fits Family Size 8'' Pizza | 8 Presets & Digital Touch Display | 2 Year Warranty",
+      "brand": "",
+      "price": 8999.0,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/51cBpxsZR4L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozNzYzNzk4ODk2ODkwNDI6MTc4MTMzMjAzMTpzcF9hdGY6MzAxMDI0NTIwMjI0MTMyOjowOjo&url=%2FNUUK-Toxin-Free-CeramicTechTM-plastics-Reminder%2Fdp%2FB0FXLLB21N%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.hjw2iftBuImpbbtzN7CD3x8AlLB7lHeuK0N2Qcvacknuol2zBqDFLPxmLwQx0zAbGx3vD-FB3xLGKbO7j-MVgiKV7HaNJdynaub14d6Z89JvqDwFfdfiz67pXRNdVkii3Zat_FV2mMqYicGV0_4CXJedR8IkFYfmV2rq4dIYpXWe0ZJ_sBWPXG53ydP64rdtkSyP604e3_QfTr5MuePE-t38pIwiX_XFXQGvbPJIwt8.NoRBDUccZOc1eNFximWKIQPQJhE1e1Omnpdixgqvn1Y%26dib_tag%3Dse%26keywords%3Dkitchen%2Bappliances%26qid%3D1781332031%26sr%3D8-2-spons%26aref%3DoHHJroaGwW%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=oHHJroaGwW&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 213
+    },
+    {
+      "productId": "B0FNK7Z1JY",
+      "title": "Cadlec MultiChef Pro 3 in 1 Breakfast Maker With Oven Toaster Griller, Coffee Maker, Frying Pan | Adjustable Temperature & Timer, Bake, Grill & Toast- Black",
+      "brand": "",
+      "price": 3499.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/6104UnzUF0L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/MultiChef-Pro-Breakfast-Adjustable-Temperature/dp/B0FNK7Z1JY/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hjw2iftBuImpbbtzN7CD3x8AlLB7lHeuK0N2Qcvacknuol2zBqDFLPxmLwQx0zAbGx3vD-FB3xLGKbO7j-MVgiKV7HaNJdynaub14d6Z89JvqDwFfdfiz67pXRNdVkii3Zat_FV2mMqYicGV0_4CXJedR8IkFYfmV2rq4dIYpXWe0ZJ_sBWPXG53ydP64rdtkSyP604e3_QfTr5MuePE-t38pIwiX_XFXQGvbPJIwt8.NoRBDUccZOc1eNFximWKIQPQJhE1e1Omnpdixgqvn1Y&dib_tag=se&keywords=kitchen+appliances&qid=1781332031&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 1065
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

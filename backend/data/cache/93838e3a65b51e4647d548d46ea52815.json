@@ -1,0 +1,40 @@
+{
+  "searchTerm": "power bank",
+  "products": [
+    {
+      "productId": "B0DCZ3WDTB",
+      "title": "Xiaomi Power Bank 4i 20000mAh 33W Super Fast Charging PD |Smart 12 Layer Protection|Type C Input & Output|Triple Output Ports|Supports Android,Apple, Tablets, Earbuds,Watch(MI Powerbank),Black",
+      "brand": "",
+      "price": 1926.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/41vBAaU8clL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Xiaomi-20000mAh-Charging-Delivery-Supports/dp/B0DCZ3WDTB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.yo2gGHUxxZAeZgxpZ4l3LXN6Kv3hXNwHK6ZUXpYOY91VQgr0l1Ycpu-DA4lKmGc594LGSAteyNsTJsJP2MjoDF0RD7Z8i_ONhYyXTn55YfVCctl2nPPg3IhNeK0l5aC7_6GKf0YAPBwe7iy8e369WdqPOtyERkgPmwN-0HfZP1hmxV-dQ5QwtGUNTQTMNuPQq5K_sj-Dcmlp7KXeagngp10Y-Pz-IfcjcjkUVcujA44.ajkn2ATC3vPiHrNbF0tlyt8jF1O9OlidTz9MisMQ7yk&dib_tag=se&keywords=power+bank&qid=1781331651&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 10766
+    },
+    {
+      "productId": "B0D96HMLYX",
+      "title": "Amazon Basics 20000 mAh Power Bank | 22.5W Fast Charging | Dual Output & Input | Charge 3 Devices Simultaneously | for Smartphones, TWS Earbuds, Speakers, Tablets (Dark Blue)",
+      "brand": "",
+      "price": 1099.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61FEiRJcFiL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Charging-Devices-Simultaneously-Smartphones-Speakers/dp/B0D96HMLYX/ref=sr_1_2?dib=eyJ2IjoiMSJ9.yo2gGHUxxZAeZgxpZ4l3LXN6Kv3hXNwHK6ZUXpYOY91VQgr0l1Ycpu-DA4lKmGc594LGSAteyNsTJsJP2MjoDF0RD7Z8i_ONhYyXTn55YfVCctl2nPPg3IhNeK0l5aC7_6GKf0YAPBwe7iy8e369WdqPOtyERkgPmwN-0HfZP1hmxV-dQ5QwtGUNTQTMNuPQq5K_sj-Dcmlp7KXeagngp10Y-Pz-IfcjcjkUVcujA44.ajkn2ATC3vPiHrNbF0tlyt8jF1O9OlidTz9MisMQ7yk&dib_tag=se&keywords=power+bank&qid=1781331651&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 1726
+    },
+    {
+      "productId": "B0C6M7Q9NB",
+      "title": "ZEBRONICS MB10000S4 Power Bank, 10000 mAh, 12W, Dual USB Output, Type C & Micro USB Input, Built in Protections, Percentage LED Display, Included USB to Type C Cable, Made in India(Black)",
+      "brand": "",
+      "price": 599.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/71JvRYPYejL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/ZEBRONICS-ZEB-MB10000S4-Percentage-Compatible-Protection/dp/B0C6M7Q9NB/ref=sr_1_3?dib=eyJ2IjoiMSJ9.yo2gGHUxxZAeZgxpZ4l3LXN6Kv3hXNwHK6ZUXpYOY91VQgr0l1Ycpu-DA4lKmGc594LGSAteyNsTJsJP2MjoDF0RD7Z8i_ONhYyXTn55YfVCctl2nPPg3IhNeK0l5aC7_6GKf0YAPBwe7iy8e369WdqPOtyERkgPmwN-0HfZP1hmxV-dQ5QwtGUNTQTMNuPQq5K_sj-Dcmlp7KXeagngp10Y-Pz-IfcjcjkUVcujA44.ajkn2ATC3vPiHrNbF0tlyt8jF1O9OlidTz9MisMQ7yk&dib_tag=se&keywords=power+bank&qid=1781331651&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 1110
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

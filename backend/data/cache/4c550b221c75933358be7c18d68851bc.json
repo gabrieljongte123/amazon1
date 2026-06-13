@@ -1,0 +1,40 @@
+{
+  "searchTerm": "watch men",
+  "products": [
+    {
+      "productId": "B0BNHD7MM3",
+      "title": "Matrix Black, Blue, White Dial, Day & Date Functioning, Stainless Steel Strap Analog Watch for Men & Women",
+      "brand": "Matrix",
+      "price": 295.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/816eXKgDfIL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Matrix-Black-Functioning-Stainless-Analog/dp/B0BNHD7MM3/ref=sr_1_1?dib=eyJ2IjoiMSJ9.0HCAKqzW1C1uLSdCwiMdjjVc5rGflYDUydsDgS8eTUzu-YUwvmoricMj5hZwmVyXjJ8gvpYkmPX8uk411stSAgtjMdf71KmjwYHnYg24Dhgx-EVOjWpj2VIYDyo1DrE6Hxp_5LdgDc-TUHo2Zxq5Flqjo8aL5GXcxheyaSm_O84egZ91M5r2G_qeI7U_lU51gUCgnPsm4R1j3JmqK_893kZuFFdIazF0Kdo7EnzFhgjAi_ssOIz2c9g751NscuJW-es5IUE0LVtAioMILwhh8BpsXEGpFowv6wu7t020m54.3bjy0-q1i--AR4hQ9JA_A9qXeL3KhJ0_sjdijCyLzxI&dib_tag=se&keywords=watch+men&qid=1781331558&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 2665
+    },
+    {
+      "productId": "B0FPBGQ125",
+      "title": "AMERICANVIBER Men's Silver, Watch with Stainless Steel Band | Water-Resistant Analog Dress & Casual Wristwatch",
+      "brand": "AMERICANVIBER",
+      "price": 298.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71IVibsCYYL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/AMERICANVIBER-Silver-Stainless-Water-Resistant-Wristwatch/dp/B0FPBGQ125/ref=sr_1_2?dib=eyJ2IjoiMSJ9.0HCAKqzW1C1uLSdCwiMdjjVc5rGflYDUydsDgS8eTUzu-YUwvmoricMj5hZwmVyXjJ8gvpYkmPX8uk411stSAgtjMdf71KmjwYHnYg24Dhgx-EVOjWpj2VIYDyo1DrE6Hxp_5LdgDc-TUHo2Zxq5Flqjo8aL5GXcxheyaSm_O84egZ91M5r2G_qeI7U_lU51gUCgnPsm4R1j3JmqK_893kZuFFdIazF0Kdo7EnzFhgjAi_ssOIz2c9g751NscuJW-es5IUE0LVtAioMILwhh8BpsXEGpFowv6wu7t020m54.3bjy0-q1i--AR4hQ9JA_A9qXeL3KhJ0_sjdijCyLzxI&dib_tag=se&keywords=watch+men&qid=1781331558&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 360
+    },
+    {
+      "productId": "B0BMTH89TD",
+      "title": "Matrix Antique Day & Date Leather Strap Analog Silicone Watch For Men & Boys - Black",
+      "brand": "Matrix",
+      "price": 285.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/713WexJvpTL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Matrix-Antique-Leather-Strap-Analog/dp/B0BMTH89TD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.0HCAKqzW1C1uLSdCwiMdjjVc5rGflYDUydsDgS8eTUzu-YUwvmoricMj5hZwmVyXjJ8gvpYkmPX8uk411stSAgtjMdf71KmjwYHnYg24Dhgx-EVOjWpj2VIYDyo1DrE6Hxp_5LdgDc-TUHo2Zxq5Flqjo8aL5GXcxheyaSm_O84egZ91M5r2G_qeI7U_lU51gUCgnPsm4R1j3JmqK_893kZuFFdIazF0Kdo7EnzFhgjAi_ssOIz2c9g751NscuJW-es5IUE0LVtAioMILwhh8BpsXEGpFowv6wu7t020m54.3bjy0-q1i--AR4hQ9JA_A9qXeL3KhJ0_sjdijCyLzxI&dib_tag=se&keywords=watch+men&qid=1781331558&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 2249
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

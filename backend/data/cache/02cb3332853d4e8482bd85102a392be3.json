@@ -1,0 +1,40 @@
+{
+  "searchTerm": "toothpaste",
+  "products": [
+    {
+      "productId": "B082LDRTD1",
+      "title": "Colgate Strong Teeth, 500g (200g + 200g + 100g), Calcium-boost Tooth Paste for 2X Stronger Teeth, Protects Enamel, Whitens Teeth, Fresh Breath & Prevents Cavities (Combo Multipack)",
+      "brand": "",
+      "price": 245.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71EJjIYiAiL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Colgate-Calcium-boost-Stronger-Protects-Multipack/dp/B082LDRTD1/ref=sr_1_1_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.2X2EsU_F4696Mnrg9dUe8Zcc8F999nEVdprN-2S_Anv2OGmDsw4ASoyjs2_lReqCCDZU3bbmPAQT5vCe2Kd4OlxwZh3qAlGlen_it24MIuab9Ay22_oSSjDYsjzBSsV5dBDduzDWj8pwt-oT5n9PncehTp9322dJajL5EdssdtKy0Y1IG-gyir5kn5pNYv_w8_4zG5dFPnxAnID73bX5hfPkcp1sdr_juOGswiExSpKxLg38EKJIqF4SjEtYlIvXn_1nNiBgbgZdxgz63PRMgjZ1t8jmyjJ8aqJZ3gBa1-U.mb8otUXAFq8VNkLb20ZvwDwCCd-ib6UsEqcumCF3CDo&dib_tag=se&keywords=toothpaste&qid=1781331968&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 42130
+    },
+    {
+      "productId": "B0755J7HRX",
+      "title": "Colgate Max Fresh Toothpaste, Red Gel Paste with Menthol For Tooth Decay Prevention, Cavity Protection, Gum Protection, Whitening, Eliminates Bad Breath (300g, 150g X 2, Spicy Fresh, Saver Pack)",
+      "brand": "",
+      "price": 193.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71nqUM9z31L._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Colgate-Maxfresh-Spicy-Fresh-Toothpaste/dp/B0755J7HRX/ref=sr_1_2_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.2X2EsU_F4696Mnrg9dUe8Zcc8F999nEVdprN-2S_Anv2OGmDsw4ASoyjs2_lReqCCDZU3bbmPAQT5vCe2Kd4OlxwZh3qAlGlen_it24MIuab9Ay22_oSSjDYsjzBSsV5dBDduzDWj8pwt-oT5n9PncehTp9322dJajL5EdssdtKy0Y1IG-gyir5kn5pNYv_w8_4zG5dFPnxAnID73bX5hfPkcp1sdr_juOGswiExSpKxLg38EKJIqF4SjEtYlIvXn_1nNiBgbgZdxgz63PRMgjZ1t8jmyjJ8aqJZ3gBa1-U.mb8otUXAFq8VNkLb20ZvwDwCCd-ib6UsEqcumCF3CDo&dib_tag=se&keywords=toothpaste&qid=1781331968&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 25365
+    },
+    {
+      "productId": "B0F4R4BG5G",
+      "title": "Dabur Red Gel Ayurvedic Toothpaste - 600g (150g x 4) | Reduction in Bad Breath, Plaque & Gingivitis | Freshness with Protection | For Healthy Gums & Effective Dental Care",
+      "brand": "",
+      "price": 219.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/81nab+ii5EL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Dabur-Red-Gel-Ayurvedic-Toothpaste/dp/B0F4R4BG5G/ref=sr_1_3_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.2X2EsU_F4696Mnrg9dUe8Zcc8F999nEVdprN-2S_Anv2OGmDsw4ASoyjs2_lReqCCDZU3bbmPAQT5vCe2Kd4OlxwZh3qAlGlen_it24MIuab9Ay22_oSSjDYsjzBSsV5dBDduzDWj8pwt-oT5n9PncehTp9322dJajL5EdssdtKy0Y1IG-gyir5kn5pNYv_w8_4zG5dFPnxAnID73bX5hfPkcp1sdr_juOGswiExSpKxLg38EKJIqF4SjEtYlIvXn_1nNiBgbgZdxgz63PRMgjZ1t8jmyjJ8aqJZ3gBa1-U.mb8otUXAFq8VNkLb20ZvwDwCCd-ib6UsEqcumCF3CDo&dib_tag=se&keywords=toothpaste&qid=1781331968&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 2826
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

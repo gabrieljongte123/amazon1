@@ -1,0 +1,40 @@
+{
+  "searchTerm": "keyboard",
+  "products": [
+    {
+      "productId": "B01N4EV2TL",
+      "title": "Logitech MK240 Nano Wireless USB Keyboard and Mouse Set, 12 Function Keys 2.4GHz Wireless, 1000DPI, Spill-Resistant Design, PC/Mac, Black/Chartreuse Yellow",
+      "brand": "",
+      "price": 1595.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/6124vLIswVL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MDgyNTU1MDIyMzI3MjU4OjE3ODEzMzE2NzM6c3BfYXRmOjMwMDQ1NTU4NTE0OTAzMjo6MDo6&url=%2FLogitech-MK240-NANO-Mouse-Keyboard%2Fdp%2FB01N4EV2TL%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.97jWR-WGYQVzoVUFOEoGEcH4UcaCPbvr_7VShloU3dYouPqx6s1Cq1KytzKCWwZaqedQwbT76XiG3X9L5v5w7-rgzWM4oO7isCKpneBD5l_4dQAp4lYVzdzi4UJCA-jla7nGmE8kW36SpGNAcJEzt_krKLAg9qc7c5kovgPlYhAkwItc_H6gflEy0w9laYc5IGx7A1fnKx7B7ByoX7Unkk9d3FSD2iNPtMzqOF9lkss.hcn2lTZCFBJPPvJwI8bOk7gn-ZtPvj8j1UBQIVE3B6s%26dib_tag%3Dse%26keywords%3Dkeyboard%26qid%3D1781331673%26sr%3D8-1-spons%26aref%3DcuuuZrsU4A%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=cuuuZrsU4A&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 11985
+    },
+    {
+      "productId": "B00PFFCMV0",
+      "title": "Logitech MK345 Wireless Combo Full-Sized Keyboard with Palm Rest and Comfortable Right-Handed Mouse, 2.4 GHz Wireless USB Receiver, Compatible with PC, Laptop - Black",
+      "brand": "",
+      "price": 2595.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/51bwoslaqqL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MDgyNTU1MDIyMzI3MjU4OjE3ODEzMzE2NzM6c3BfYXRmOjMwMDQ1NTU4NTE0ODkzMjo6MDo6&url=%2FLogitech-MK345-Wireless-Keyboard-Mouse%2Fdp%2FB00PFFCMV0%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.97jWR-WGYQVzoVUFOEoGEcH4UcaCPbvr_7VShloU3dYouPqx6s1Cq1KytzKCWwZaqedQwbT76XiG3X9L5v5w7-rgzWM4oO7isCKpneBD5l_4dQAp4lYVzdzi4UJCA-jla7nGmE8kW36SpGNAcJEzt_krKLAg9qc7c5kovgPlYhAkwItc_H6gflEy0w9laYc5IGx7A1fnKx7B7ByoX7Unkk9d3FSD2iNPtMzqOF9lkss.hcn2lTZCFBJPPvJwI8bOk7gn-ZtPvj8j1UBQIVE3B6s%26dib_tag%3Dse%26keywords%3Dkeyboard%26qid%3D1781331673%26sr%3D8-2-spons%26aref%3DAdlzZlfTXi%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=AdlzZlfTXi&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 7842
+    },
+    {
+      "productId": "B077T3BG5L",
+      "title": "Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key",
+      "brand": "",
+      "price": 279.0,
+      "rating": 3.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/71E0VC4P5KL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/ZEBRONICS-ZEB-KM2100-Multimedia-Including-Dedicated/dp/B077T3BG5L/ref=sr_1_3?dib=eyJ2IjoiMSJ9.97jWR-WGYQVzoVUFOEoGEcH4UcaCPbvr_7VShloU3dYouPqx6s1Cq1KytzKCWwZaqedQwbT76XiG3X9L5v5w7-rgzWM4oO7isCKpneBD5l_4dQAp4lYVzdzi4UJCA-jla7nGmE8kW36SpGNAcJEzt_krKLAg9qc7c5kovgPlYhAkwItc_H6gflEy0w9laYc5IGx7A1fnKx7B7ByoX7Unkk9d3FSD2iNPtMzqOF9lkss.hcn2lTZCFBJPPvJwI8bOk7gn-ZtPvj8j1UBQIVE3B6s&dib_tag=se&keywords=keyboard&qid=1781331673&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 45682
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

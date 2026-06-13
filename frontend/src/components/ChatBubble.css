@@ -1,0 +1,266 @@
+.chat-bubble {
+  display: flex;
+  margin-bottom: var(--spacing-sm);
+  padding: 0 var(--spacing-md);
+}
+
+.chat-bubble--user {
+  justify-content: flex-end;
+}
+
+.chat-bubble--agent {
+  justify-content: flex-start;
+}
+
+.chat-bubble__content {
+  max-width: 85%;
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-lg);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.chat-bubble--user .chat-bubble__content {
+  background: var(--color-accent);
+  color: white;
+  border-bottom-right-radius: var(--radius-sm);
+}
+
+.chat-bubble--agent .chat-bubble__content {
+  background: var(--color-surface);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-bottom-left-radius: var(--radius-sm);
+}
+
+.chat-bubble__text {
+  margin: 0;
+  line-height: 1.5;
+  font-size: var(--font-size-base);
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Option Buttons */
+.chat-bubble__options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-xs);
+  margin-top: var(--spacing-sm);
+}
+
+.chat-bubble__option-btn {
+  padding: var(--spacing-xs) var(--spacing-sm);
+  font-size: var(--font-size-sm);
+  border: 1px solid var(--color-accent);
+  border-radius: var(--radius-full);
+  background: transparent;
+  color: var(--color-accent);
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.chat-bubble__option-btn:hover {
+  background: var(--color-accent);
+  color: white;
+}
+
+/* Product Recommendations */
+.chat-bubble__products {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-sm);
+  width: 100%;
+}
+
+.chat-bubble__product-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+  padding: var(--spacing-sm);
+  background: var(--color-background);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  width: 100%;
+  min-width: 0;
+}
+
+.chat-bubble__product-link-wrapper {
+  display: flex;
+  gap: var(--spacing-sm);
+  color: inherit;
+  min-width: 0;
+}
+
+.chat-bubble__product-img {
+  width: 50px;
+  height: 50px;
+  min-width: 50px;
+  object-fit: cover;
+  border-radius: var(--radius-sm);
+  background: var(--color-border);
+}
+
+.chat-bubble__product-img-placeholder {
+  width: 50px;
+  height: 50px;
+  min-width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  background: var(--color-background);
+  border-radius: var(--radius-sm);
+}
+
+.chat-bubble__product-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  min-width: 0;
+  flex: 1;
+}
+
+.chat-bubble__product-title {
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-text);
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+.chat-bubble__product-brand {
+  font-size: 0.7rem;
+  color: var(--color-text-secondary);
+  font-weight: 500;
+}
+
+.chat-bubble__product-price {
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.chat-bubble__product-rating {
+  font-size: 0.75rem;
+  color: var(--color-accent);
+}
+
+/* Product action buttons */
+.chat-bubble__product-actions {
+  display: flex;
+  gap: var(--spacing-xs);
+  margin-top: var(--spacing-xs);
+  padding-top: var(--spacing-xs);
+  border-top: 1px solid var(--color-border);
+  flex-wrap: wrap;
+}
+
+.chat-bubble__add-cart-btn {
+  flex: 1;
+  min-width: 0;
+  padding: 6px 8px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: var(--color-accent);
+  color: white;
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background 0.2s;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.chat-bubble__add-cart-btn:hover {
+  background: var(--color-accent-hover);
+}
+
+.chat-bubble__buy-now-btn {
+  flex: 1;
+  min-width: 0;
+  padding: 6px 8px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: var(--color-primary);
+  color: white;
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  transition: background 0.2s;
+  white-space: nowrap;
+}
+
+.chat-bubble__buy-now-btn:hover {
+  background: var(--color-primary-light);
+}
+
+.chat-bubble__view-amazon-btn {
+  flex: 1;
+  min-width: 0;
+  padding: 6px 8px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: white;
+  color: var(--color-accent);
+  border: 1px solid var(--color-accent);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  transition: background 0.2s, color 0.2s;
+  white-space: nowrap;
+}
+
+.chat-bubble__view-amazon-btn:hover {
+  background: var(--color-accent);
+  color: white;
+}
+
+/* ═══ MOBILE RESPONSIVE ═══ */
+@media (max-width: 480px) {
+  .chat-bubble {
+    padding: 0 var(--spacing-sm);
+  }
+
+  .chat-bubble__content {
+    max-width: 90%;
+    padding: var(--spacing-xs) var(--spacing-sm);
+  }
+
+  .chat-bubble__text {
+    font-size: 0.9rem;
+  }
+
+  .chat-bubble__product-img,
+  .chat-bubble__product-img-placeholder {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    font-size: 1.2rem;
+  }
+
+  .chat-bubble__product-title {
+    font-size: 0.8rem;
+  }
+
+  .chat-bubble__product-actions {
+    flex-wrap: wrap;
+  }
+
+  .chat-bubble__add-cart-btn,
+  .chat-bubble__buy-now-btn,
+  .chat-bubble__view-amazon-btn {
+    font-size: 0.65rem;
+    padding: 5px 6px;
+  }
+
+  .chat-bubble__option-btn {
+    font-size: 0.75rem;
+    padding: 4px 8px;
+  }
+}

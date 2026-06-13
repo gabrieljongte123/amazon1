@@ -1,0 +1,40 @@
+{
+  "searchTerm": "protein powder",
+  "products": [
+    {
+      "productId": "B0G815LFGH",
+      "title": "By Food Pharmer - OWN Cocoa Edition | Whey Protein Concentrate 1kg | 24g per scoop | No Added Sugar | No Added Flavours | No Added Artificial Sweeteners | No Added Colours | Lab Tested",
+      "brand": "",
+      "price": 3099.0,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/71xv3b6wgXL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/ONLY-WHATS-NEEDED-Food-Pharmer/dp/B0G815LFGH/ref=sr_1_1?dib=eyJ2IjoiMSJ9.luIljjVidcIEoy1ecbMvh4okdB4jF18d0a36J2vbbeZzLugV5AMkVujDaoxuWE1fnuFjy4deTzdv7Tg9ViST0iMCKV-oVpv5kCayrPfIF3jS18ibSkG6BRAt4tlwWdG25b3CA9qIEx5CbVNWqXjgCzU95f7I4_x7FdAuXs-327b97gkynnoqeY-8vIl7U8q_AnlZSRdXmkeyQ1ERnUXE1K8xYZtYc2EwHxTcSo9mVpZlWJ9hbtLmq2ZtDxaSehyvdL40baMvT-w3_VVeV9l5XnAaOTXGtSl1AdkzJ7OGL4w.VszTLr-XIkWA209mUB3Y6ePMmFgDedK7-i99rnwSuz8&dib_tag=se&keywords=protein+powder&qid=1781331895&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 514
+    },
+    {
+      "productId": "B09GG47TC9",
+      "title": "MuscleBlaze Beginner's Whey Protein Powder, Chocolate (500g / 1.1lbs) | 12g Protein Per Scoop",
+      "brand": "",
+      "price": 1049.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61SRe2Ed7GL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/MuscleBlaze-Beginners-Recovery-Improved-Chocolate/dp/B09GG47TC9/ref=sr_1_2?dib=eyJ2IjoiMSJ9.luIljjVidcIEoy1ecbMvh4okdB4jF18d0a36J2vbbeZzLugV5AMkVujDaoxuWE1fnuFjy4deTzdv7Tg9ViST0iMCKV-oVpv5kCayrPfIF3jS18ibSkG6BRAt4tlwWdG25b3CA9qIEx5CbVNWqXjgCzU95f7I4_x7FdAuXs-327b97gkynnoqeY-8vIl7U8q_AnlZSRdXmkeyQ1ERnUXE1K8xYZtYc2EwHxTcSo9mVpZlWJ9hbtLmq2ZtDxaSehyvdL40baMvT-w3_VVeV9l5XnAaOTXGtSl1AdkzJ7OGL4w.VszTLr-XIkWA209mUB3Y6ePMmFgDedK7-i99rnwSuz8&dib_tag=se&keywords=protein+powder&qid=1781331895&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 17133
+    },
+    {
+      "productId": "B019T0K132",
+      "title": "Optimum Nutrition (ON) Gold Standard 100% Whey Protein Powder - 1 lb (Double Rich Chocolate), Primary Source Isolate",
+      "brand": "",
+      "price": 2149.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/71aaVOEsHLL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Optimum-Nutrition-Standard-Protein-Powder/dp/B019T0K132/ref=sr_1_3_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.luIljjVidcIEoy1ecbMvh4okdB4jF18d0a36J2vbbeZzLugV5AMkVujDaoxuWE1fnuFjy4deTzdv7Tg9ViST0iMCKV-oVpv5kCayrPfIF3jS18ibSkG6BRAt4tlwWdG25b3CA9qIEx5CbVNWqXjgCzU95f7I4_x7FdAuXs-327b97gkynnoqeY-8vIl7U8q_AnlZSRdXmkeyQ1ERnUXE1K8xYZtYc2EwHxTcSo9mVpZlWJ9hbtLmq2ZtDxaSehyvdL40baMvT-w3_VVeV9l5XnAaOTXGtSl1AdkzJ7OGL4w.VszTLr-XIkWA209mUB3Y6ePMmFgDedK7-i99rnwSuz8&dib_tag=se&keywords=protein+powder&qid=1781331895&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 9613
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

@@ -1,0 +1,86 @@
+/* VoiceButton - Microphone toggle with recording animation */
+
+.voice-button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-full);
+  background: transparent;
+  color: var(--color-text-secondary);
+  border: 1px solid var(--color-border);
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.voice-button:hover:not(:disabled) {
+  background: var(--color-background);
+  color: var(--color-text-primary);
+  border-color: var(--color-text-secondary);
+}
+
+.voice-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Recording state */
+.voice-button--recording {
+  background: #fee2e2;
+  color: #dc2626;
+  border-color: #dc2626;
+}
+
+.voice-button--recording:hover:not(:disabled) {
+  background: #fecaca;
+  color: #b91c1c;
+  border-color: #b91c1c;
+}
+
+/* Pulsing animation for active recording */
+.voice-button__pulse {
+  position: absolute;
+  inset: -4px;
+  border-radius: var(--radius-full);
+  border: 2px solid #dc2626;
+  animation: voice-pulse 1.5s ease-in-out infinite;
+  pointer-events: none;
+}
+
+@keyframes voice-pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(1.15);
+    opacity: 0.3;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.8;
+  }
+}
+
+/* Red glow effect while recording */
+.voice-button--recording::after {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border-radius: var(--radius-full);
+  box-shadow: 0 0 8px rgba(220, 38, 38, 0.4);
+  animation: voice-glow 1.5s ease-in-out infinite;
+  pointer-events: none;
+}
+
+@keyframes voice-glow {
+  0%,
+  100% {
+    box-shadow: 0 0 8px rgba(220, 38, 38, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 16px rgba(220, 38, 38, 0.6);
+  }
+}

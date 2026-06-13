@@ -1,0 +1,40 @@
+{
+  "searchTerm": "h&m dumbbells",
+  "products": [
+    {
+      "productId": "B0C55FP5TX",
+      "title": "Protoner PVC 3 in 1 convertible DM 4-40 Kg Dumbbells Set and Fitness Kit for Men and Women Whole Body Workout (20 kg (2 kg x 4, 3 kg x 4), 3 in 1 convertible)",
+      "brand": "Protoner",
+      "price": 849.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/81yi8OiYIRL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Protoner-convertible-Dumbbells-Fitness-Workout/dp/B0C55FP5TX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.kha_4gmevbc-HQ25iK2uDoJxPxhJ8kf_3WdCRtvp_EMpglWQpREDpOerFRjwD6ZrBxn4bf6N_UQ_GmBhcN5RGIoGkRLMF61l-lj6Esh0B1H6TsiLEQgEF9MfQdzYrd7igWLcg85FrRXzul9XsiDGQqxnZqFvGvn6wPXf2qwswJtApnGq663z_px16M_J3O9_3eueyAv0pxrPfEpmrTWtJnied8j-f4U93TitEmAqBiNor8R6lAoWHOouVJkzUiMn0OAUK_5UC8N_s6McYZNbGhyWDH61pdPDrIXFZ92wAE4.uMHg806adcJuSaANEuVwWqSTqyOInPUWuIsIJfA_mf4&dib_tag=se&keywords=h%26m+dumbbells&qid=1781330700&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 4328
+    },
+    {
+      "productId": "B0C2KFM9W6",
+      "title": "Protoner Pair Of 3 Kg Each Pvc Dumbbells Set Hex, Black",
+      "brand": "Protoner",
+      "price": 299.0,
+      "rating": 3.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/71w8crtH+6L._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Protoner-Pair-Each-Dumbbells-Black/dp/B0C2KFM9W6/ref=sr_1_2?dib=eyJ2IjoiMSJ9.kha_4gmevbc-HQ25iK2uDoJxPxhJ8kf_3WdCRtvp_EMpglWQpREDpOerFRjwD6ZrBxn4bf6N_UQ_GmBhcN5RGIoGkRLMF61l-lj6Esh0B1H6TsiLEQgEF9MfQdzYrd7igWLcg85FrRXzul9XsiDGQqxnZqFvGvn6wPXf2qwswJtApnGq663z_px16M_J3O9_3eueyAv0pxrPfEpmrTWtJnied8j-f4U93TitEmAqBiNor8R6lAoWHOouVJkzUiMn0OAUK_5UC8N_s6McYZNbGhyWDH61pdPDrIXFZ92wAE4.uMHg806adcJuSaANEuVwWqSTqyOInPUWuIsIJfA_mf4&dib_tag=se&keywords=h%26m+dumbbells&qid=1781330700&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 6329
+    },
+    {
+      "productId": "B09W5PSTBP",
+      "title": "Lifelong PVC Hex Dumbbells Pack of 2 (5kg*2) Black Color for Home Gym Equipment Fitness Barbell|Gym Exercise|Home Workout, Gym Dumbbells|Dumbbells Weights for Men & Women (6 Months Warranty)",
+      "brand": "Lifelong",
+      "price": 509.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/710SxepIfiL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Lifelong-Dumbbells-Equipment-Exercise-Warranty/dp/B09W5PSTBP/ref=sr_1_3?dib=eyJ2IjoiMSJ9.kha_4gmevbc-HQ25iK2uDoJxPxhJ8kf_3WdCRtvp_EMpglWQpREDpOerFRjwD6ZrBxn4bf6N_UQ_GmBhcN5RGIoGkRLMF61l-lj6Esh0B1H6TsiLEQgEF9MfQdzYrd7igWLcg85FrRXzul9XsiDGQqxnZqFvGvn6wPXf2qwswJtApnGq663z_px16M_J3O9_3eueyAv0pxrPfEpmrTWtJnied8j-f4U93TitEmAqBiNor8R6lAoWHOouVJkzUiMn0OAUK_5UC8N_s6McYZNbGhyWDH61pdPDrIXFZ92wAE4.uMHg806adcJuSaANEuVwWqSTqyOInPUWuIsIJfA_mf4&dib_tag=se&keywords=h%26m+dumbbells&qid=1781330700&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 26419
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

@@ -1,0 +1,40 @@
+{
+  "searchTerm": "shampoo",
+  "products": [
+    {
+      "productId": "B07L3ZCJ53",
+      "title": "TRESemmé Keratin Smooth+ Shampoo 1000ml | 72H Frizz Control with Keratin Protein & Argan Oil | Paraben Free Smoothening Shampoo for Dry & Frizzy Hair",
+      "brand": "",
+      "price": 631.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/51La7HRCp0L._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/TRESemme-Keratin-Smooth-Shampoo-1000ml/dp/B07L3ZCJ53/ref=sr_1_1_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.6Bhpy0kqxzha_6ahDXN3zyr8FbR0PYkw5fc9mtl3bdLVpPFMP0ncrF-6Hal-FCn14BH9zRBoUp3vW6x-gVpLzxR4QGaikMXnCTsVoDRoiyYLJa40T6MXizICqKZ2cRp0u62ednlQo7XFzi9-MXsU50cohcj8-bZDgm28Vo9Ay6bKhL_F5WCYmmOTY6ZPHutEdoPtMPNCFccs-1h9z2_NXP8RkKYBl9hbp0gKvHyxjRGvGvf7zYKPQY9PEFl3DBjvdn_EqMYuUUTTvqtaKYqkMeVCvTVY6koewEMwqESSewI.78MBaok38zpCozn3mLaIB8HMWvp-DPUaqPoUIqUmH0U&dib_tag=se&keywords=shampoo&qid=1781331794&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 60750
+    },
+    {
+      "productId": "B07H9T25WH",
+      "title": "Dove Hair Fall Rescue Shampoo 1 L|| For Damaged Hair|| Hair Fall Control for Thicker Hair - Mild Daily Anti Hair Fall Shampoo for Men & Women",
+      "brand": "",
+      "price": 685.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/41fPnRl0WZL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Dove-Hair-Fall-Rescue-Shampoo/dp/B07H9T25WH/ref=sr_1_2_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.6Bhpy0kqxzha_6ahDXN3zyr8FbR0PYkw5fc9mtl3bdLVpPFMP0ncrF-6Hal-FCn14BH9zRBoUp3vW6x-gVpLzxR4QGaikMXnCTsVoDRoiyYLJa40T6MXizICqKZ2cRp0u62ednlQo7XFzi9-MXsU50cohcj8-bZDgm28Vo9Ay6bKhL_F5WCYmmOTY6ZPHutEdoPtMPNCFccs-1h9z2_NXP8RkKYBl9hbp0gKvHyxjRGvGvf7zYKPQY9PEFl3DBjvdn_EqMYuUUTTvqtaKYqkMeVCvTVY6koewEMwqESSewI.78MBaok38zpCozn3mLaIB8HMWvp-DPUaqPoUIqUmH0U&dib_tag=se&keywords=shampoo&qid=1781331794&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 53507
+    },
+    {
+      "productId": "B0B6XQGXJW",
+      "title": "L'Oreal Paris Moisture Filling Shampoo, With Hyaluronic Acid, For Dry & Dehydrated Hair, Adds Shine Bounce, Hyaluron 72H, 340Ml.",
+      "brand": "",
+      "price": 362.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/51pruNF+rXL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Paris-Moisture-Hyaluronic-Dehydrated-Hyaluron/dp/B0B6XQGXJW/ref=sr_1_3_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.6Bhpy0kqxzha_6ahDXN3zyr8FbR0PYkw5fc9mtl3bdLVpPFMP0ncrF-6Hal-FCn14BH9zRBoUp3vW6x-gVpLzxR4QGaikMXnCTsVoDRoiyYLJa40T6MXizICqKZ2cRp0u62ednlQo7XFzi9-MXsU50cohcj8-bZDgm28Vo9Ay6bKhL_F5WCYmmOTY6ZPHutEdoPtMPNCFccs-1h9z2_NXP8RkKYBl9hbp0gKvHyxjRGvGvf7zYKPQY9PEFl3DBjvdn_EqMYuUUTTvqtaKYqkMeVCvTVY6koewEMwqESSewI.78MBaok38zpCozn3mLaIB8HMWvp-DPUaqPoUIqUmH0U&dib_tag=se&keywords=shampoo&qid=1781331794&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 20429
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

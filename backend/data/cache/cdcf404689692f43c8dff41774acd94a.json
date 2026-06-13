@@ -1,0 +1,29 @@
+{
+  "searchTerm": "samsung phone",
+  "products": [
+    {
+      "productId": "B0FN7QTRPY",
+      "title": "Samsung Galaxy M07 Mobile (Black, 4GB RAM, 64GB Storage) | MediaTek Helio G99 | AnTuTu 624K | IP54| 50MP Camera | 7.6mm Slim | 5000mAh Battery | 25W Fast Charging | 6 Gen OS Upgrades | Without Charger",
+      "brand": "Samsung",
+      "price": 9999.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/610lbucItmL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Samsung-Storage-MediaTek-Charging-Upgrades/dp/B0FN7QTRPY/ref=sr_1_1?dib=eyJ2IjoiMSJ9.vKS2yr8hUIK2H0coCTAOJCMvR4dv4QC2cM9QZQrtuDDAGZPWII7k9rxCH2GAi7MOx7CPF5Hee-fBlRznqK7dlcLfUv9iBrjCPmfsEiVeW_-r8-MrHTEJNm89doDgeVty1G63kET1JXvIaVB9DBBJSfe8UtcuryT__QZ2O0R2tVYB2-0CL6MZaJFXUKiqT-rX391vwCE80zdd8ET561g_KR9BwCClkrqtUPylTYz4tvo.3UzjbmgoUtZt85ujB6BrgK4H3IjOX56uC8zvIGslXlk&dib_tag=se&keywords=samsung+phone&qid=1781332001&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 1643
+    },
+    {
+      "productId": "B0F43WXC8K",
+      "title": "Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 128GB Storage)| Segment Slimmest | Gorilla Glass Victus+ | 10 Bit HDR Video | 50MP Camera | AI | Vapour Cooling Chamber | Lag-free Gaming| Without Charger",
+      "brand": "Samsung",
+      "price": 23499.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/71cezbo2HNL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Samsung-Slimmest-Enhanced-Nightography-Processor/dp/B0F43WXC8K/ref=sr_1_2?dib=eyJ2IjoiMSJ9.vKS2yr8hUIK2H0coCTAOJCMvR4dv4QC2cM9QZQrtuDDAGZPWII7k9rxCH2GAi7MOx7CPF5Hee-fBlRznqK7dlcLfUv9iBrjCPmfsEiVeW_-r8-MrHTEJNm89doDgeVty1G63kET1JXvIaVB9DBBJSfe8UtcuryT__QZ2O0R2tVYB2-0CL6MZaJFXUKiqT-rX391vwCE80zdd8ET561g_KR9BwCClkrqtUPylTYz4tvo.3UzjbmgoUtZt85ujB6BrgK4H3IjOX56uC8zvIGslXlk&dib_tag=se&keywords=samsung+phone&qid=1781332001&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 2071
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}
