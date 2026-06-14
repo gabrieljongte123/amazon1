@@ -1,0 +1,40 @@
+{
+  "searchTerm": "nike running shoes",
+  "products": [
+    {
+      "productId": "B0FRNHWLQP",
+      "title": "Nike Mens Air Zoom Pegasus 42 Running Shoes",
+      "brand": "Nike",
+      "price": 12995.0,
+      "rating": 4.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/71BrfD-zDtL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MTYwOTU3ODk1MzQzNDgzOjE3ODEzMzIwMDc6c3BfYXRmOjMwMTA1NjQwNTIyMDgzMjo6MDo6&url=%2FNike-Pegasus-Black-Spruce-Sapphire-Running%2Fdp%2FB0FRNHWLQP%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.whXyZuxmey41yYP505aXaI0NiI0nXl8MIE-0TdfTVZG68c4KCpidcI95KkmJHMXD2-I5Qm6es3_wOm3iELFt0NCPJXJvfT-zut5Wvnjr_tVagcsPp8H8RUWV56KK_U1jBYYA4H6l-8iR9lGaO7bO1cgXac3Zs5-dMG-X6syzacwjr_08VhHz9Agq9dkB0ThiLDCttdQgCoIqRlI0TakXpiLvhcvy22UfHG9H-Wz3BuNtIZMjBu7jNmI9VkHifDk8MDRRc_OYp0-CK8yN35lkm1ejC0z-FcPmwxamIkusZZg.RTWQcfXpekbOZSRkBEN2I3fmXMGhQwD95Y0-P9IySlk%26dib_tag%3Dse%26keywords%3Dnike%2Brunning%2Bshoes%26qid%3D1781332007%26sr%3D8-1-spons%26aref%3DWKCNm8B54z%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=WKCNm8B54z&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 11
+    },
+    {
+      "productId": "B0F2TD2P53",
+      "title": "CULT Men Strix Sports Shoes",
+      "brand": "CULT",
+      "price": 2441.0,
+      "rating": 3.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71jEDsJqEeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MTYwOTU3ODk1MzQzNDgzOjE3ODEzMzIwMDc6c3BfYXRmOjMwMTEyOTQzODU0NjkzMjo6MDo6&url=%2FCULT-Strix-Running-Shoes-Blue_UK8%2Fdp%2FB0F2TD2P53%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.whXyZuxmey41yYP505aXaI0NiI0nXl8MIE-0TdfTVZG68c4KCpidcI95KkmJHMXD2-I5Qm6es3_wOm3iELFt0NCPJXJvfT-zut5Wvnjr_tVagcsPp8H8RUWV56KK_U1jBYYA4H6l-8iR9lGaO7bO1cgXac3Zs5-dMG-X6syzacwjr_08VhHz9Agq9dkB0ThiLDCttdQgCoIqRlI0TakXpiLvhcvy22UfHG9H-Wz3BuNtIZMjBu7jNmI9VkHifDk8MDRRc_OYp0-CK8yN35lkm1ejC0z-FcPmwxamIkusZZg.RTWQcfXpekbOZSRkBEN2I3fmXMGhQwD95Y0-P9IySlk%26dib_tag%3Dse%26keywords%3Dnike%2Brunning%2Bshoes%26qid%3D1781332007%26sr%3D8-2-spons%26aref%3DvXK5kSSy3K%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=vXK5kSSy3K&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 50
+    },
+    {
+      "productId": "B0GS4YPVG1",
+      "title": "Reebok Men's Running Shoe - Force Runner - Sports Shoe - Ideal for Running & Gym",
+      "brand": "Reebok",
+      "price": 2599.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/41o2kaXNS1L._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MTYwOTU3ODk1MzQzNDgzOjE3ODEzMzIwMDc6c3BfYXRmOjMwMTAyODE1NTE2OTMzMjo6MDo6&url=%2FForce-Runner-White-Running-Shoes%2Fdp%2FB0GS4YPVG1%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.whXyZuxmey41yYP505aXaI0NiI0nXl8MIE-0TdfTVZG68c4KCpidcI95KkmJHMXD2-I5Qm6es3_wOm3iELFt0NCPJXJvfT-zut5Wvnjr_tVagcsPp8H8RUWV56KK_U1jBYYA4H6l-8iR9lGaO7bO1cgXac3Zs5-dMG-X6syzacwjr_08VhHz9Agq9dkB0ThiLDCttdQgCoIqRlI0TakXpiLvhcvy22UfHG9H-Wz3BuNtIZMjBu7jNmI9VkHifDk8MDRRc_OYp0-CK8yN35lkm1ejC0z-FcPmwxamIkusZZg.RTWQcfXpekbOZSRkBEN2I3fmXMGhQwD95Y0-P9IySlk%26dib_tag%3Dse%26keywords%3Dnike%2Brunning%2Bshoes%26qid%3D1781332007%26sr%3D8-3-spons%26aref%3DvJlCuCFmpT%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=vJlCuCFmpT&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 18
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

@@ -1,0 +1,40 @@
+{
+  "searchTerm": "car phone holder",
+  "products": [
+    {
+      "productId": "B0B6HM36Z8",
+      "title": "Portronics Clamp M2 Adjustable Car Mobile Phone Holder Stand for Dashboard & Windshield, 360° Rotational, Strong Suction Cup, Compatible with 4 to 6 inch Devices(Black)",
+      "brand": "",
+      "price": 249.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/41H7NUu+b4L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Portronics-Adjustable-Rotational-Suction-Compatible/dp/B0B6HM36Z8/ref=sr_1_1?dib=eyJ2IjoiMSJ9.dhpGMCd6mWjJDIq9OC06HgsQgWgcRKip0rg72Bt0wxLlPUV5nvXn0dA1IQmeE6gecvPW-3E2Jx-oyi37rqTHC99e53Y_OpFgaT1MVd-F1ZEALlyANxyPSnF1e7aClSYOCJI67PGOeTa3pI2DgxH1TxfuNQxLHcsCRr5CpNbMG3MGUwa-uHMAwDEDfOjgHo_gLasIdtIgszMfZSkBu66CnNF4qGaT39ukx28DZVFZi6k.nXhKaZBehh3CC6Ctyzo3ezBbF3RYJ-Qx-3MGDccWcO8&dib_tag=se&keywords=car+phone+holder&qid=1781331836&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 19547
+    },
+    {
+      "productId": "B0BKKYCRM1",
+      "title": "Universal Mobile Auto Car Phone Holder, 360° Rotatable & Retractable, Adjustable for GPS Rearview Mirror, Compatible with Phones 3-7 Inches",
+      "brand": "",
+      "price": 299.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61xqIlVrbFL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/TBONEEY-Universal-Rotatable-Retractable-Adjustable/dp/B0BKKYCRM1/ref=sr_1_2?dib=eyJ2IjoiMSJ9.dhpGMCd6mWjJDIq9OC06HgsQgWgcRKip0rg72Bt0wxLlPUV5nvXn0dA1IQmeE6gecvPW-3E2Jx-oyi37rqTHC99e53Y_OpFgaT1MVd-F1ZEALlyANxyPSnF1e7aClSYOCJI67PGOeTa3pI2DgxH1TxfuNQxLHcsCRr5CpNbMG3MGUwa-uHMAwDEDfOjgHo_gLasIdtIgszMfZSkBu66CnNF4qGaT39ukx28DZVFZi6k.nXhKaZBehh3CC6Ctyzo3ezBbF3RYJ-Qx-3MGDccWcO8&dib_tag=se&keywords=car+phone+holder&qid=1781331836&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 1295
+    },
+    {
+      "productId": "B0DH8FXSXL",
+      "title": "Elfora Car Mobile Phone Holder Stand for Dashboard & Windshield with Adjustable Angles | Powerful Suction Cup | 360° Rotational | Compatible with 4 to 6 inch Devices(Black)",
+      "brand": "",
+      "price": 238.0,
+      "rating": 3.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/619vyhUWhxL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Elfora-Windshield-Adjustable-Rotational-Compatible/dp/B0DH8FXSXL/ref=sr_1_3?dib=eyJ2IjoiMSJ9.dhpGMCd6mWjJDIq9OC06HgsQgWgcRKip0rg72Bt0wxLlPUV5nvXn0dA1IQmeE6gecvPW-3E2Jx-oyi37rqTHC99e53Y_OpFgaT1MVd-F1ZEALlyANxyPSnF1e7aClSYOCJI67PGOeTa3pI2DgxH1TxfuNQxLHcsCRr5CpNbMG3MGUwa-uHMAwDEDfOjgHo_gLasIdtIgszMfZSkBu66CnNF4qGaT39ukx28DZVFZi6k.nXhKaZBehh3CC6Ctyzo3ezBbF3RYJ-Qx-3MGDccWcO8&dib_tag=se&keywords=car+phone+holder&qid=1781331836&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 281
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

@@ -1,0 +1,40 @@
+{
+  "searchTerm": "laptop",
+  "products": [
+    {
+      "productId": "B0GW8KXZMF",
+      "title": "Acer Smartchoice Aspire One, Intel Core Celeron N4500, Office 2024 + M365 Basic, 12GB LPDDR4X / 256GB SSD, 14.0\"/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.3KG, A114-45, Thin and Light Laptop",
+      "brand": "",
+      "price": 35990.0,
+      "rating": 3.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/81BEfyD0qeL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Acer-Smartchoice-Celeron-LPDDR4X-A114-45/dp/B0GW8KXZMF/ref=sr_1_1?dib=eyJ2IjoiMSJ9.aIMyFFGZnd7L19zli6CMZ5Vd2nniYTCXjnLCDzEbDpGcMh3_7ZPIuNr1jnRLkbO5CES8iLij0zBs7yyk06jjttPY68M9Nn9srs5YnonkQaMZUa-Z3uMzLroNfpjGQuMumHF_gFzLSGyjTvLFLPcEI8ypJDyxS4LM7cPWffINL5cgE_pm5n-nSl_s-cXvepW1IM8o4jXfjw5qiH9YBKNNNB1J9GUyjgiWhVgHhZpGMwk.9XKPQvxSE2O8HzTMq5LyAr2PYU7bxdrmLVgshgOE7B0&dib_tag=se&keywords=laptop&qid=1781331626&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 601
+    },
+    {
+      "productId": "B0F4R5W1NC",
+      "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge,15.6''/39.6cm, FHD, Win11,M365 Basic(1yr),Office Home24, Silver,1.59kg, FHD Camera w/Privacy Shutter, fd0569TU",
+      "brand": "",
+      "price": 49300.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61R5Ecv7i-L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/HP-i3-1315U-Anti-Glare-Micro-Edge-fd0569TU/dp/B0F4R5W1NC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.aIMyFFGZnd7L19zli6CMZ5Vd2nniYTCXjnLCDzEbDpGcMh3_7ZPIuNr1jnRLkbO5CES8iLij0zBs7yyk06jjttPY68M9Nn9srs5YnonkQaMZUa-Z3uMzLroNfpjGQuMumHF_gFzLSGyjTvLFLPcEI8ypJDyxS4LM7cPWffINL5cgE_pm5n-nSl_s-cXvepW1IM8o4jXfjw5qiH9YBKNNNB1J9GUyjgiWhVgHhZpGMwk.9XKPQvxSE2O8HzTMq5LyAr2PYU7bxdrmLVgshgOE7B0&dib_tag=se&keywords=laptop&qid=1781331626&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 2217
+    },
+    {
+      "productId": "B0GSZ9GNY4",
+      "title": "Lenovo V15, Intel Core i5-13420H, 8GB RAM, 512GB SSD, FHD 15.6” (39.62cm), DOS, Luna Grey, 1.61Kg, 83HF0072IG, 250 Nits, 1Y Onsite Warranty, Laptop",
+      "brand": "",
+      "price": 71299.0,
+      "rating": 0.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71GzOrQYKcL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Lenovo-i5-13420H-39-62cm-83HF0072IG-Warranty/dp/B0GSZ9GNY4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.aIMyFFGZnd7L19zli6CMZ5Vd2nniYTCXjnLCDzEbDpGcMh3_7ZPIuNr1jnRLkbO5CES8iLij0zBs7yyk06jjttPY68M9Nn9srs5YnonkQaMZUa-Z3uMzLroNfpjGQuMumHF_gFzLSGyjTvLFLPcEI8ypJDyxS4LM7cPWffINL5cgE_pm5n-nSl_s-cXvepW1IM8o4jXfjw5qiH9YBKNNNB1J9GUyjgiWhVgHhZpGMwk.9XKPQvxSE2O8HzTMq5LyAr2PYU7bxdrmLVgshgOE7B0&dib_tag=se&keywords=laptop&qid=1781331626&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 0
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

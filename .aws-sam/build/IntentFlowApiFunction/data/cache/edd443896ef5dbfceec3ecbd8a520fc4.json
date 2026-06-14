@@ -1,0 +1,40 @@
+{
+  "searchTerm": "headphones",
+  "products": [
+    {
+      "productId": "B0DQ212KP4",
+      "title": "pTron Studio Evo 70hrs Playtime Wireless Over Ear Headphones with HD Mic, Low-Latency Game/Movie/Music Modes, Punchy Bass, BT5.3, Dual Device Pairing, Voice Assistant & Type-C Fast Charging (Black)",
+      "brand": "",
+      "price": 798.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/51ZX74-s9DL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/pTron-Studio-Headphones-Low-Latency-Assistant/dp/B0DQ212KP4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.FNXpdjC1llIHQWtpPf-cAdAaTf49Q8w5-XcFjLXsMiKdJr4Glb3Yuj7gaqMawRXYFhAs3BTZXNR-x5TtWKrx9i_-IAuYHMel0xQFXq93BfpueN1J2-Ymk8eFXeQydLNCSZsDoQqmbDXvTGgfEjs1QyjpjltjE51gqFrT4zVsaIa0Xq9btCImin0UP0gFYG1FKldqatUFpZM_uNUCYYvVe6MoKoT_ZPb9qtz7H101eGg.Sf8socy-GplmmnAvL_LQ5EfXvuyYBKhiZhEW3vWvGL0&dib_tag=se&keywords=headphones&qid=1781331640&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 2001
+    },
+    {
+      "productId": "B0FQJQDPF7",
+      "title": "pTron Studio w/ 60Hrs Playtime, Wireless Over-Ear Headphones with HD Mic, Dual-Device Pairing, Immersive Sound, 40mm Drivers, BT5.4, 3.5mm Aux Port, TF Card Slot & Type-C Fast Charging (Beige)",
+      "brand": "",
+      "price": 649.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/51UjEUnn24L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/pTron-Studio-Headphones-Immersive-Dual-Device/dp/B0FQJQDPF7/ref=sr_1_2?dib=eyJ2IjoiMSJ9.FNXpdjC1llIHQWtpPf-cAdAaTf49Q8w5-XcFjLXsMiKdJr4Glb3Yuj7gaqMawRXYFhAs3BTZXNR-x5TtWKrx9i_-IAuYHMel0xQFXq93BfpueN1J2-Ymk8eFXeQydLNCSZsDoQqmbDXvTGgfEjs1QyjpjltjE51gqFrT4zVsaIa0Xq9btCImin0UP0gFYG1FKldqatUFpZM_uNUCYYvVe6MoKoT_ZPb9qtz7H101eGg.Sf8socy-GplmmnAvL_LQ5EfXvuyYBKhiZhEW3vWvGL0&dib_tag=se&keywords=headphones&qid=1781331640&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 481
+    },
+    {
+      "productId": "B09B5BS6G4",
+      "title": "Zebronics Wireless Headphones, Upto 60Hrs Playback, 40mm Drivers, BT v6.0, AUX, Micro SD, Media/Volume Control, Type-C Charging, Dual Pairing, Gaming Mode, Adjustable Headband (Thunder, Teal Green)",
+      "brand": "",
+      "price": 749.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/61of3lqennL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/ZEBRONICS-Wireless-Headphones-Playback-Adjustable/dp/B09B5BS6G4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.FNXpdjC1llIHQWtpPf-cAdAaTf49Q8w5-XcFjLXsMiKdJr4Glb3Yuj7gaqMawRXYFhAs3BTZXNR-x5TtWKrx9i_-IAuYHMel0xQFXq93BfpueN1J2-Ymk8eFXeQydLNCSZsDoQqmbDXvTGgfEjs1QyjpjltjE51gqFrT4zVsaIa0Xq9btCImin0UP0gFYG1FKldqatUFpZM_uNUCYYvVe6MoKoT_ZPb9qtz7H101eGg.Sf8socy-GplmmnAvL_LQ5EfXvuyYBKhiZhEW3vWvGL0&dib_tag=se&keywords=headphones&qid=1781331640&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 3570
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

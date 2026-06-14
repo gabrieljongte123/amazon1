@@ -1,0 +1,40 @@
+{
+  "searchTerm": "levis jeans",
+  "products": [
+    {
+      "productId": "B09Z77ZBBL",
+      "title": "Levi's Men's 511 Slim Fit Mid Rise Jeans",
+      "brand": "Levi's",
+      "price": 1439.0,
+      "rating": 3.9,
+      "imageUrl": "https://m.media-amazon.com/images/I/51oTtO2WOpL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Levis-Mens-Jeans-18298-1247_Mid-Indigo_32/dp/B09Z77ZBBL/ref=sr_1_1?dib=eyJ2IjoiMSJ9.C-p1XiVA0bToVXUBYxLuinwB-aXHwfHg_m2bmrjYi2-gpoOYDR5zMGcO2Tb6bH3IPk5uLJV8zYC_w3At2ETnWYmlB0eZevSlEbJ9Z2Q_kM0WFPcFDu9aGQreWatWWrbjJYMPfYbxARnRKBrWP0PGqPkGP6Hpsbqaea1itIXyINfPAMd7FW6sDwLve5m87JkIZijtGi1COdWf0RxmNHVdZbgHwsYwPqdGRscDHWO2EicC7P5Vwa2D2UyJAEsilaY5OQcyYYBf-HJVeSMNijCWyl1C3vCqCxA98ocmEyM0Yoc.wKrdEwJRLhs8ynaYCAfHIUaRInSVycit9jQEEiDDvfg&dib_tag=se&keywords=levis+jeans&qid=1781331523&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 2181
+    },
+    {
+      "productId": "B0CRRVG45T",
+      "title": "Levi's Men's Slim Jeans",
+      "brand": "Levi's",
+      "price": 1200.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/51Frh7lK2UL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Levis-Mens-Slim-Jeans-A7087-0091_Blue/dp/B0CRRVG45T/ref=sr_1_2?dib=eyJ2IjoiMSJ9.C-p1XiVA0bToVXUBYxLuinwB-aXHwfHg_m2bmrjYi2-gpoOYDR5zMGcO2Tb6bH3IPk5uLJV8zYC_w3At2ETnWYmlB0eZevSlEbJ9Z2Q_kM0WFPcFDu9aGQreWatWWrbjJYMPfYbxARnRKBrWP0PGqPkGP6Hpsbqaea1itIXyINfPAMd7FW6sDwLve5m87JkIZijtGi1COdWf0RxmNHVdZbgHwsYwPqdGRscDHWO2EicC7P5Vwa2D2UyJAEsilaY5OQcyYYBf-HJVeSMNijCWyl1C3vCqCxA98ocmEyM0Yoc.wKrdEwJRLhs8ynaYCAfHIUaRInSVycit9jQEEiDDvfg&dib_tag=se&keywords=levis+jeans&qid=1781331523&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 139
+    },
+    {
+      "productId": "B09Z768J4T",
+      "title": "Levi's Men's 511 Slim Fit Mid Rise Jeans",
+      "brand": "Levi's",
+      "price": 1200.0,
+      "rating": 3.9,
+      "imageUrl": "https://m.media-amazon.com/images/I/51alfoxkSeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Levis-Mens-Jeans-18298-1268_Mid-Indigo_28/dp/B09Z768J4T/ref=sr_1_3?dib=eyJ2IjoiMSJ9.C-p1XiVA0bToVXUBYxLuinwB-aXHwfHg_m2bmrjYi2-gpoOYDR5zMGcO2Tb6bH3IPk5uLJV8zYC_w3At2ETnWYmlB0eZevSlEbJ9Z2Q_kM0WFPcFDu9aGQreWatWWrbjJYMPfYbxARnRKBrWP0PGqPkGP6Hpsbqaea1itIXyINfPAMd7FW6sDwLve5m87JkIZijtGi1COdWf0RxmNHVdZbgHwsYwPqdGRscDHWO2EicC7P5Vwa2D2UyJAEsilaY5OQcyYYBf-HJVeSMNijCWyl1C3vCqCxA98ocmEyM0Yoc.wKrdEwJRLhs8ynaYCAfHIUaRInSVycit9jQEEiDDvfg&dib_tag=se&keywords=levis+jeans&qid=1781331523&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 2181
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

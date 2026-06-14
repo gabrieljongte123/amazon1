@@ -1,0 +1,40 @@
+{
+  "searchTerm": "cooking oil",
+  "products": [
+    {
+      "productId": "B00NYZU698",
+      "title": "Fortune Rice Bran Health Oil | Reduces Bad Cholesterol | Rich in Gamma Oryzanol | 1L/870g pouch[weight may vary]",
+      "brand": "",
+      "price": 172.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71WBHionksL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Fortune-Rice-Bran-Health-1L/dp/B00NYZU698/ref=sr_1_1_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.32IITS3W99lXzJLSh-uC-SNNG3qGMDWf4tBGdZYVvkXuUsP7W7S-rto5BWhweBeV7eexzdfTnW-OAR0tQygobIMfaZNHk7IikVM8kzXunix0H_hKt5A1JsmYeWt9uxgvl_FOa91N5qhwV48GgsS7jwUa01KKAzqlWuSYL4ZYIjdgro4X4JZLEchjS4IUYNlqUkJG2rQ_zFpLQ_QeRPJfYt5z-Qlp0HEUMBcbTI1PBqmHJvDqNWv2IJVDUsK_6orj5OpJenvReojm8FDDa9NDQZAuA05fct86oVDZDBsGcZE.kTqG8vVAosHQjAU0JX2OgIaHnMudC9Z2OlGZVrjEULo&dib_tag=se&keywords=cooking+oil&qid=1781331962&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 26700
+    },
+    {
+      "productId": "B00N2WI082",
+      "title": "Fortune Rice Bran Health Oil | Reduces Bad Cholesterol | Rich in Gamma Oryzanol | 5L/4.35 Kg Jar (Weight May Vary)",
+      "brand": "",
+      "price": 877.0,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61Jb7TOqaeL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Fortune-Rice-Bran-Health-Oil/dp/B00N2WI082/ref=sr_1_2_in_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.32IITS3W99lXzJLSh-uC-SNNG3qGMDWf4tBGdZYVvkXuUsP7W7S-rto5BWhweBeV7eexzdfTnW-OAR0tQygobIMfaZNHk7IikVM8kzXunix0H_hKt5A1JsmYeWt9uxgvl_FOa91N5qhwV48GgsS7jwUa01KKAzqlWuSYL4ZYIjdgro4X4JZLEchjS4IUYNlqUkJG2rQ_zFpLQ_QeRPJfYt5z-Qlp0HEUMBcbTI1PBqmHJvDqNWv2IJVDUsK_6orj5OpJenvReojm8FDDa9NDQZAuA05fct86oVDZDBsGcZE.kTqG8vVAosHQjAU0JX2OgIaHnMudC9Z2OlGZVrjEULo&dib_tag=se&keywords=cooking+oil&qid=1781331962&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 14233
+    },
+    {
+      "productId": "B074N7X8XV",
+      "title": "Emami Healthy & Tasty Refined Rice Bran Oil Pouch, 730g (Weight may be vary)",
+      "brand": "",
+      "price": 137.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/711bMUEX1NL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Emami-Healthy-Tasty-Refined-Pouch/dp/B074N7X8XV/ref=sr_1_3_in_f3_0o_fs?dib=eyJ2IjoiMSJ9.32IITS3W99lXzJLSh-uC-SNNG3qGMDWf4tBGdZYVvkXuUsP7W7S-rto5BWhweBeV7eexzdfTnW-OAR0tQygobIMfaZNHk7IikVM8kzXunix0H_hKt5A1JsmYeWt9uxgvl_FOa91N5qhwV48GgsS7jwUa01KKAzqlWuSYL4ZYIjdgro4X4JZLEchjS4IUYNlqUkJG2rQ_zFpLQ_QeRPJfYt5z-Qlp0HEUMBcbTI1PBqmHJvDqNWv2IJVDUsK_6orj5OpJenvReojm8FDDa9NDQZAuA05fct86oVDZDBsGcZE.kTqG8vVAosHQjAU0JX2OgIaHnMudC9Z2OlGZVrjEULo&dib_tag=se&keywords=cooking+oil&qid=1781331962&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 10563
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

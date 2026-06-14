@@ -98,7 +98,7 @@ function ChatPage() {
         ← Home
       </button>
 
-      {/* Animated shopping background */}
+      {/* Animated shopping background - full viewport coverage */}
       <div className="chat-page__bg-icons" aria-hidden="true">
         <span className="bg-icon bg-icon--1">🛒</span>
         <span className="bg-icon bg-icon--2">🛍️</span>
@@ -106,6 +106,12 @@ function ChatPage() {
         <span className="bg-icon bg-icon--4">💳</span>
         <span className="bg-icon bg-icon--5">🎁</span>
         <span className="bg-icon bg-icon--6">⭐</span>
+        <span className="bg-icon bg-icon--7">🏷️</span>
+        <span className="bg-icon bg-icon--8">💰</span>
+        <span className="bg-icon bg-icon--9">🔖</span>
+        <span className="bg-icon bg-icon--10">📱</span>
+        <span className="bg-icon bg-icon--11">👟</span>
+        <span className="bg-icon bg-icon--12">🧴</span>
       </div>
 
       {isSessionLoading && (

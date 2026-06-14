@@ -1,0 +1,29 @@
+{
+  "searchTerm": "bluetooth speaker",
+  "products": [
+    {
+      "productId": "B0CXKV7WMJ",
+      "title": "Sony ULT Field 1 Wireless Bluetooth Speaker, 12hrs Playtime, Massive Bass, Hands Free Calling, IP67 Water, Dust & Rustproof, Sound Connect App-White",
+      "brand": "",
+      "price": 8489.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/81k9tQORZIL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3ODA5MTA0Mzk2MTgzNzU2OjE3ODEzMzE2NjE6c3BfYXRmOjMwMDI4MTc5ODMxMTQzMjo6MDo6&url=%2FWireless-Bluetooth-Waterproof-Dustproof-Hands-Free%2Fdp%2FB0CXKV7WMJ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9._oY6F9l6WG5Adc9_MMNbs8fxyqY3L-rIas2BmvJ4PutMRhZ-wr4eJaczvnz8MZP4VD6DOpXCtpjMzt6RfpA35vg_XE00V4-Jl7wBNbcXad8pON_Gud1due18z9t4l0ygoCFZWt5UHQs3pSWYR_iPlEi4lsvWoB_iBRZKGjQz5qq3GQD8pvr98q4VIYvR2i-dr0U1C7UW_ojNY0KE170-KLYpWcHtH5bg7-6vHTn0DpM.jOdeGcj6I8qcJfl5cYSzjGhpTBqKEUHpdy4HTDjeMG0%26dib_tag%3Dse%26keywords%3Dbluetooth%2Bspeaker%26qid%3D1781331661%26sr%3D8-1-spons%26aref%3DI5G3A6j65F%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=I5G3A6j65F&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 255
+    },
+    {
+      "productId": "B0DVZF8RQF",
+      "title": "pTron Fusion Pro Retro Signature 20W Bluetooth Speaker with Pristine Sound, 8 Hours Playtime, Dual Drivers, Playback via BT5.3/USB/TF Card, Easy Controls, Portable Speaker & Type C Charging (Black)",
+      "brand": "",
+      "price": 1499.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/71eruucP21L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3ODA5MTA0Mzk2MTgzNzU2OjE3ODEzMzE2NjE6c3BfYXRmOjMwMDU0NTM1NTgxODkzMjo6MDo6&url=%2FpTron-Fusion-Signature-Bluetooth-Pristine%2Fdp%2FB0DVZF8RQF%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9._oY6F9l6WG5Adc9_MMNbs8fxyqY3L-rIas2BmvJ4PutMRhZ-wr4eJaczvnz8MZP4VD6DOpXCtpjMzt6RfpA35vg_XE00V4-Jl7wBNbcXad8pON_Gud1due18z9t4l0ygoCFZWt5UHQs3pSWYR_iPlEi4lsvWoB_iBRZKGjQz5qq3GQD8pvr98q4VIYvR2i-dr0U1C7UW_ojNY0KE170-KLYpWcHtH5bg7-6vHTn0DpM.jOdeGcj6I8qcJfl5cYSzjGhpTBqKEUHpdy4HTDjeMG0%26dib_tag%3Dse%26keywords%3Dbluetooth%2Bspeaker%26qid%3D1781331661%26sr%3D8-2-spons%26aref%3DHguhGUtRvQ%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=HguhGUtRvQ&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 589
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

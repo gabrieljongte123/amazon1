@@ -1,0 +1,40 @@
+{
+  "searchTerm": "whey protein",
+  "products": [
+    {
+      "productId": "B08HHCY41Z",
+      "title": "Bigmuscles Nutrition Premium Gold Whey 2Kg Whey Protein Isolate Blend |USA FDA REGD. BRAND | 25g Protein Per Serving [Rich chocolate]",
+      "brand": "",
+      "price": 3199.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/71fPZvKtxiL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Bigmuscles-Nutrition-Premium-Chocolate-Concentrate/dp/B08HHCY41Z/ref=sr_1_1_in_f3_0o_fs?dib=eyJ2IjoiMSJ9.B5T9JUG4Thz_0Ndbec7ESj9E_RVIZFcVxv7NeBrKSe17LUXSUH3wXainvEyN9L_19H8B79JVpjpsU3bcAxLNx4eQMiKnBReoYAIWdXtX0rK8Z1gA5jxhQMXvibdk79GrYV_R6op4XMNb05zY_HmcL7HuD6IIXJa0saZGGgtduLtFTIyNMHN8nhoVHtbCFch5-EM0nQeGx0Wb3gB0W5T2rNOdDudU9LR7O5Exoje72rL5xbzJjvs0qjrZqnUWDXyiOYYwXJtWM4wiekhAv9eNDuRZV1Bie93n140k3FgMaKw.n57RWYUBt6BeUeeCaNw_xIBJtYLlV42Yy4_Y-uPJ2ZE&dib_tag=se&keywords=whey+protein&qid=1781331912&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 21973
+    },
+    {
+      "productId": "B0DMVZ3WD2",
+      "title": "Bigmuscles Nutrition Nitra Isolate [1kg, Rich Chocolate] | 32g Protein | 10g EAA | Whey Protein with ProHydrolase Enzyme Tech. For Faster Absorption | Improved Strength, Faster Recovery & Muscle Building",
+      "brand": "",
+      "price": 1899.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61xACj+1vGL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Bigmuscles-Nutrition-Chocolate-ProHydrolase-Absorption/dp/B0DMVZ3WD2/ref=sr_1_2?dib=eyJ2IjoiMSJ9.B5T9JUG4Thz_0Ndbec7ESj9E_RVIZFcVxv7NeBrKSe17LUXSUH3wXainvEyN9L_19H8B79JVpjpsU3bcAxLNx4eQMiKnBReoYAIWdXtX0rK8Z1gA5jxhQMXvibdk79GrYV_R6op4XMNb05zY_HmcL7HuD6IIXJa0saZGGgtduLtFTIyNMHN8nhoVHtbCFch5-EM0nQeGx0Wb3gB0W5T2rNOdDudU9LR7O5Exoje72rL5xbzJjvs0qjrZqnUWDXyiOYYwXJtWM4wiekhAv9eNDuRZV1Bie93n140k3FgMaKw.n57RWYUBt6BeUeeCaNw_xIBJtYLlV42Yy4_Y-uPJ2ZE&dib_tag=se&keywords=whey+protein&qid=1781331912&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 745
+    },
+    {
+      "productId": "B0DF2BC1TD",
+      "title": "AS-IT-IS ATOM PWR Whey XL - Powered with Fermented Yeast Protein Isolate, 24g Protein, with DigeZyme®, Easy Digest, Lean Muscle Gains & Strength, Rapid Recovery, 1kg Double Rich Chocolate",
+      "brand": "",
+      "price": 1792.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61aGVixXxfL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/AS-ATOM-PWR-Whey-Fermented/dp/B0DF2BC1TD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.B5T9JUG4Thz_0Ndbec7ESj9E_RVIZFcVxv7NeBrKSe17LUXSUH3wXainvEyN9L_19H8B79JVpjpsU3bcAxLNx4eQMiKnBReoYAIWdXtX0rK8Z1gA5jxhQMXvibdk79GrYV_R6op4XMNb05zY_HmcL7HuD6IIXJa0saZGGgtduLtFTIyNMHN8nhoVHtbCFch5-EM0nQeGx0Wb3gB0W5T2rNOdDudU9LR7O5Exoje72rL5xbzJjvs0qjrZqnUWDXyiOYYwXJtWM4wiekhAv9eNDuRZV1Bie93n140k3FgMaKw.n57RWYUBt6BeUeeCaNw_xIBJtYLlV42Yy4_Y-uPJ2ZE&dib_tag=se&keywords=whey+protein&qid=1781331912&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 556
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

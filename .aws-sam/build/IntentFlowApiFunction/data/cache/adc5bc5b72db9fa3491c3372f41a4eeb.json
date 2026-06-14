@@ -1,0 +1,40 @@
+{
+  "searchTerm": "smartwatch",
+  "products": [
+    {
+      "productId": "B0D9629NJQ",
+      "title": "Fastrack Limitless Glide X 1.83\" Smart Watch with Ultra UV HD Display, SpO2, Heart Rate & Sleep Tracking, Bluetooth Calling, 100+ Sports Modes, 5-Day Battery, Smartwatch for Men & Women (Black)",
+      "brand": "",
+      "price": 1299.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71rNSvzQGlL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Fastrack-Limitless-SingleSync-Smartwatch-Assistant/dp/B0D9629NJQ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.tCr9eewJUuTwKLohdgMJP42bRQ9gr-IpWBivD5e2hgSpbrqfw7_opJPzV8DcC4n0_v2Bb6K3mcLqcBpAYW01l99qad_4FndduLFQDg3HosPni-hoM6VlBgGOR1Z3hV7smNBbaUifVFiFRUM8P5zrazwRBtGKZBIikUFVSN8W-nMr6qZv6WcjM9mDokoQbAA2J0DP9GFlYLc_GaPNBO1FEeNT4UNldx_R8vfu_dPUSEk.LCyUZ4dersHSBWRFkivKNoGdaPTFS56Bit3SrAm9BNo&dib_tag=se&keywords=smartwatch&qid=1781331646&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 4085
+    },
+    {
+      "productId": "B0FLF44GTQ",
+      "title": "Boat Wave Call 3 Smartwatch 1.83” HD Display with Animated Watch Faces; BT Calling, Functional Crown, Multiple Sports Modes, IP68, HR, SpO2 Monitor, Smart Watches for Men & Women (Bold Black)",
+      "brand": "",
+      "price": 1399.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/71UdDIKDlEL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Smartwatch-Display-Animated-Functional-Multiple/dp/B0FLF44GTQ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.tCr9eewJUuTwKLohdgMJP42bRQ9gr-IpWBivD5e2hgSpbrqfw7_opJPzV8DcC4n0_v2Bb6K3mcLqcBpAYW01l99qad_4FndduLFQDg3HosPni-hoM6VlBgGOR1Z3hV7smNBbaUifVFiFRUM8P5zrazwRBtGKZBIikUFVSN8W-nMr6qZv6WcjM9mDokoQbAA2J0DP9GFlYLc_GaPNBO1FEeNT4UNldx_R8vfu_dPUSEk.LCyUZ4dersHSBWRFkivKNoGdaPTFS56Bit3SrAm9BNo&dib_tag=se&keywords=smartwatch&qid=1781331646&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 26061
+    },
+    {
+      "productId": "B0BSGXWTGP",
+      "title": "Bouncefit D20 Y68 Fitness Band Smart Watch for Men, Women, Boys, Girls, Kids – Single Touch Interface, Water Resistant, Workout Modes, Quick Charge Sports Smartwatch – Jet Black",
+      "brand": "",
+      "price": 396.0,
+      "rating": 3.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/51VZN8HIAFL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Bouncefit-D20-Fitness-Band-Smartwatch/dp/B0BSGXWTGP/ref=sr_1_3?dib=eyJ2IjoiMSJ9.tCr9eewJUuTwKLohdgMJP42bRQ9gr-IpWBivD5e2hgSpbrqfw7_opJPzV8DcC4n0_v2Bb6K3mcLqcBpAYW01l99qad_4FndduLFQDg3HosPni-hoM6VlBgGOR1Z3hV7smNBbaUifVFiFRUM8P5zrazwRBtGKZBIikUFVSN8W-nMr6qZv6WcjM9mDokoQbAA2J0DP9GFlYLc_GaPNBO1FEeNT4UNldx_R8vfu_dPUSEk.LCyUZ4dersHSBWRFkivKNoGdaPTFS56Bit3SrAm9BNo&dib_tag=se&keywords=smartwatch&qid=1781331646&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 4177
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

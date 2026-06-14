@@ -1,0 +1,40 @@
+{
+  "searchTerm": "apple ipad",
+  "products": [
+    {
+      "productId": "B0DZ79Q1DB",
+      "title": "Apple iPad 11″: A16 chip, 27.69 cm (11″) Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Silver",
+      "brand": "Apple",
+      "price": 34400.0,
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/61qYkM2gvSL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4MjM2NTMzNzM2NTcyMDA6MTc4MTMzMjAxOTpzcF9hdGY6MzAwNTAwMDY2MTU3MjMyOjowOjo&url=%2FApple-iPad-11%25E2%2580%25B3-Display-All-Day%2Fdp%2FB0DZ79Q1DB%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.hVAMCRFemfap9T1jpVT22tfS1EDSc77MVvFM3p47XxakSRJS-tzkM6RMBp04QAe_vJnmQW1mAL3Pyc5iCjLfHRcjwhepU3m2F1oEwHK1u43GhrbV1wnG3FpqFOqwnqTl4n12X8qQknL2jtcYFZhUJ_8QEhAoa92QUjoDdGLzvkkQkPmJwz8-VV_J4k6pKgNq_DRu8f0p3YMillNQ8zxjes1hECEw3tHPXTuMrhxvQXw.E5vKzxEN9q5pOcjYFF3oS0S-GYq6-VnZJDe4man6qgw%26dib_tag%3Dse%26keywords%3Dapple%2Bipad%26nsdOptOutParam%3Dtrue%26qid%3D1781332019%26sr%3D8-1-spons%26aref%3DRxeb8BnLEU%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Rxeb8BnLEU&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 1657
+    },
+    {
+      "productId": "B0GQVHBK9M",
+      "title": "iPad Air 27.59 cm (11″) (M4): Liquid Retina Display, 128 GB, 12MP Front/Back Camera, Wi-Fi 7 with Apple N1, Touch ID, All-Day Battery Life — Space Gray",
+      "brand": "Apple",
+      "price": 64900.0,
+      "rating": 4.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/71OjEuJ2o3L._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4MjM2NTMzNzM2NTcyMDA6MTc4MTMzMjAxOTpzcF9hdGY6MzAwOTc2NDY4ODEzNjMyOjowOjo&url=%2FApple-iPad-Air-27-59-11%25E2%2580%25B3%2Fdp%2FB0GQVHBK9M%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.hVAMCRFemfap9T1jpVT22tfS1EDSc77MVvFM3p47XxakSRJS-tzkM6RMBp04QAe_vJnmQW1mAL3Pyc5iCjLfHRcjwhepU3m2F1oEwHK1u43GhrbV1wnG3FpqFOqwnqTl4n12X8qQknL2jtcYFZhUJ_8QEhAoa92QUjoDdGLzvkkQkPmJwz8-VV_J4k6pKgNq_DRu8f0p3YMillNQ8zxjes1hECEw3tHPXTuMrhxvQXw.E5vKzxEN9q5pOcjYFF3oS0S-GYq6-VnZJDe4man6qgw%26dib_tag%3Dse%26keywords%3Dapple%2Bipad%26nsdOptOutParam%3Dtrue%26qid%3D1781332019%26sr%3D8-2-spons%26aref%3DtONl1ymjGn%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=tONl1ymjGn&sp_cr=ZAZ",
+      "isPrime": false,
+      "reviewCount": 45
+    },
+    {
+      "productId": "B0DZ79Q1DB",
+      "title": "Apple iPad 11″: A16 chip, 27.69 cm (11″) Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Silver",
+      "brand": "Apple",
+      "price": 34400.0,
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/61qYkM2gvSL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Apple-iPad-11%E2%80%B3-Display-All-Day/dp/B0DZ79Q1DB/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hVAMCRFemfap9T1jpVT22tfS1EDSc77MVvFM3p47XxakSRJS-tzkM6RMBp04QAe_vJnmQW1mAL3Pyc5iCjLfHRcjwhepU3m2F1oEwHK1u43GhrbV1wnG3FpqFOqwnqTl4n12X8qQknL2jtcYFZhUJ_8QEhAoa92QUjoDdGLzvkkQkPmJwz8-VV_J4k6pKgNq_DRu8f0p3YMillNQ8zxjes1hECEw3tHPXTuMrhxvQXw.E5vKzxEN9q5pOcjYFF3oS0S-GYq6-VnZJDe4man6qgw&dib_tag=se&keywords=apple+ipad&nsdOptOutParam=true&qid=1781332019&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 1657
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

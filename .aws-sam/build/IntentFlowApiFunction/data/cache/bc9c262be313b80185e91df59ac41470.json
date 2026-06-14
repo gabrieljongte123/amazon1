@@ -1,0 +1,40 @@
+{
+  "searchTerm": "cricket bat",
+  "products": [
+    {
+      "productId": "B0DSLDJ1GB",
+      "title": "Slovic Cricket Bat [90 x 10.5 CM] | Full Size Tennis Bat for Cricket | Cricket Bat-Ball for All (Above 14 Years) | Plastic Bat for Indoor Tournament | Lightweight Fiber Bats for Cricket kit",
+      "brand": "",
+      "price": 298.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/6164TY9DCtL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Cricket-Bat-Ball-Plastic-Tournament-Lightweight/dp/B0DSLDJ1GB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.sJnVCkYvGHwM3jcc7wnRrIAhqrPdxnWKT6BRrbKVtZr31t98nQ9s61SAos4AC49Bt4HpllKu2NkjoQnwtbn3b2Ck4CMbs8tEHE7D3HWDGZYfQFINw3i79G59phhxAIZ__9KbCIptJNzD857Dsxx-FlgWBBa0CsLESNht9nrsKYX39E-mBcKRZEr7eHy-2HWRhkElyBu6BWXKsdckhnRSlNa7VHun4YOgj8uvSGdOfZK-1AGUAyBIB1RDPyijrMu7dckWnEHYjx--nR_nIS1zFr8Wu_YBIw8-g-qokjmt6lo.SJG5KD2S3-aKb9XcvQPeWyvSTGcAKEBBIXSnisQhrpQ&dib_tag=se&keywords=cricket+bat&qid=1781331619&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 687
+    },
+    {
+      "productId": "B09WVXMG96",
+      "title": "Jaspo SLOG Plastic Tennis Cricket Bat Full Size Bat (34” X 4.5” inch) for All Age Group (SLOG Cricket BAT) (SLOG)",
+      "brand": "",
+      "price": 377.0,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/71XGeHFYHML._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Plastic-Cricket-inches-Premium-Groups/dp/B09WVXMG96/ref=sr_1_2?dib=eyJ2IjoiMSJ9.sJnVCkYvGHwM3jcc7wnRrIAhqrPdxnWKT6BRrbKVtZr31t98nQ9s61SAos4AC49Bt4HpllKu2NkjoQnwtbn3b2Ck4CMbs8tEHE7D3HWDGZYfQFINw3i79G59phhxAIZ__9KbCIptJNzD857Dsxx-FlgWBBa0CsLESNht9nrsKYX39E-mBcKRZEr7eHy-2HWRhkElyBu6BWXKsdckhnRSlNa7VHun4YOgj8uvSGdOfZK-1AGUAyBIB1RDPyijrMu7dckWnEHYjx--nR_nIS1zFr8Wu_YBIw8-g-qokjmt6lo.SJG5KD2S3-aKb9XcvQPeWyvSTGcAKEBBIXSnisQhrpQ&dib_tag=se&keywords=cricket+bat&qid=1781331619&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 4729
+    },
+    {
+      "productId": "B0GJPKNMPV",
+      "title": "Bodyfit Heavy Duty Premium T-20 Cricket Bat | Lightweight| Full Size| | Hard Plastic Bat| Premium Cricket Wicket Set l 3 Stumps+2 Bails+1 Stand Set, 1 Ball.",
+      "brand": "",
+      "price": 499.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/618uqNN1dzL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Bodyfit-Premium-Cricket-Lightweight-Plastic/dp/B0GJPKNMPV/ref=sr_1_3?dib=eyJ2IjoiMSJ9.sJnVCkYvGHwM3jcc7wnRrIAhqrPdxnWKT6BRrbKVtZr31t98nQ9s61SAos4AC49Bt4HpllKu2NkjoQnwtbn3b2Ck4CMbs8tEHE7D3HWDGZYfQFINw3i79G59phhxAIZ__9KbCIptJNzD857Dsxx-FlgWBBa0CsLESNht9nrsKYX39E-mBcKRZEr7eHy-2HWRhkElyBu6BWXKsdckhnRSlNa7VHun4YOgj8uvSGdOfZK-1AGUAyBIB1RDPyijrMu7dckWnEHYjx--nR_nIS1zFr8Wu_YBIw8-g-qokjmt6lo.SJG5KD2S3-aKb9XcvQPeWyvSTGcAKEBBIXSnisQhrpQ&dib_tag=se&keywords=cricket+bat&qid=1781331619&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 145
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

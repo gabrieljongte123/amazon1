@@ -1,0 +1,40 @@
+{
+  "searchTerm": "skipping rope",
+  "products": [
+    {
+      "productId": "B0BC47M9YL",
+      "title": "Boldfit Skipping Rope for Men and Women Jumping Rope With Adjustable Height Speed Skipping Rope for Exercise, Gym, Sports Fitness Adjustable Jump Rope Black",
+      "brand": "",
+      "price": 159.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71vlhBkVs3L._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Boldfit-Skipping-Adjustable-Exercise-Drumstick/dp/B0BC47M9YL/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NkLgCmK5Hu1vOuHZuZIOWoO_Um8SGWAopWFUAcX4PEEr00s6HQmu0vDPpuA-ABkAhT_J7b2ZthQgLk-JizW7qqiX_UIX8BmEpTvjX4-vEEidIl7g6MCU6ujY_Yr4NLgivXBdDgH_Ifi7Urh0Ho8BC75zlwd9_Od6cfGx7a0z8rOMObggryKzEJNI0NGaM8LIpPw7x43vz9nt5Q0VoriOAxliE3p70X1Hn6de9jggylDk0vViFKu6HnYR4M53o7jlX-WEv3eICX1BmQbvmHx1UYpk-F0olGtdxJeZZ-KjqbE.ln-WotvNFsiklDP7cqUaYiWLA47-SRNmCjTYGtglnYE&dib_tag=se&keywords=skipping+rope&qid=1781331609&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 4227
+    },
+    {
+      "productId": "B0FY2G5SY9",
+      "title": "Boldfit Skipping Rope for Men and Women Jumping Rope With Adjustable Height Speed Skipping Rope for Exercise, Gym, Sports Fitness Adjustable Jump Rope",
+      "brand": "",
+      "price": 151.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/61im8fKw6rL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Boldfit-Skipping-Rope-Man-Lightweight/dp/B0FY2G5SY9/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NkLgCmK5Hu1vOuHZuZIOWoO_Um8SGWAopWFUAcX4PEEr00s6HQmu0vDPpuA-ABkAhT_J7b2ZthQgLk-JizW7qqiX_UIX8BmEpTvjX4-vEEidIl7g6MCU6ujY_Yr4NLgivXBdDgH_Ifi7Urh0Ho8BC75zlwd9_Od6cfGx7a0z8rOMObggryKzEJNI0NGaM8LIpPw7x43vz9nt5Q0VoriOAxliE3p70X1Hn6de9jggylDk0vViFKu6HnYR4M53o7jlX-WEv3eICX1BmQbvmHx1UYpk-F0olGtdxJeZZ-KjqbE.ln-WotvNFsiklDP7cqUaYiWLA47-SRNmCjTYGtglnYE&dib_tag=se&keywords=skipping+rope&qid=1781331609&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 14833
+    },
+    {
+      "productId": "B0FS7R7JLM",
+      "title": "Nivia Trainer Skipping Rope for Men, Women & Children, Jump Rope for Exercise, for Workout & Weight Loss, Exercise Rope, Skipping Rope for Training, Sports Fitness/Gym",
+      "brand": "",
+      "price": 111.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/61wJA3nZfrL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Nivia-Skipping-Children-Exercise-Training/dp/B0FS7R7JLM/ref=sr_1_3?dib=eyJ2IjoiMSJ9.NkLgCmK5Hu1vOuHZuZIOWoO_Um8SGWAopWFUAcX4PEEr00s6HQmu0vDPpuA-ABkAhT_J7b2ZthQgLk-JizW7qqiX_UIX8BmEpTvjX4-vEEidIl7g6MCU6ujY_Yr4NLgivXBdDgH_Ifi7Urh0Ho8BC75zlwd9_Od6cfGx7a0z8rOMObggryKzEJNI0NGaM8LIpPw7x43vz9nt5Q0VoriOAxliE3p70X1Hn6de9jggylDk0vViFKu6HnYR4M53o7jlX-WEv3eICX1BmQbvmHx1UYpk-F0olGtdxJeZZ-KjqbE.ln-WotvNFsiklDP7cqUaYiWLA47-SRNmCjTYGtglnYE&dib_tag=se&keywords=skipping+rope&qid=1781331609&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 4725
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

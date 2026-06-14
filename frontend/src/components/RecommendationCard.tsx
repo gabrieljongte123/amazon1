@@ -32,6 +32,9 @@ function RecommendationCard({ product, onSelect }: RecommendationCardProps) {
             src={product.imageUrl}
             alt={product.title}
             loading="lazy"
+            onError={(e) => {
+              e.currentTarget.src = "/shop.jpg";
+            }}
           />
         ) : (
           <span className="recommendation-card__image-placeholder" aria-hidden="true">

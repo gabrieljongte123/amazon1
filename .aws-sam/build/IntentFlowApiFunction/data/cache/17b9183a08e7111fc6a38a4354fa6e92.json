@@ -1,0 +1,40 @@
+{
+  "searchTerm": "helmet",
+  "products": [
+    {
+      "productId": "B07FCKZ4KM",
+      "title": "Vega Edge ISI Certified Full Face Gloss Finish Helmet for Men and Women with Clear Visor(Black, Size:L)",
+      "brand": "",
+      "price": 899.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61FYlYtnZCL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Vega-Edge-Full-Helmet-Black/dp/B07FCKZ4KM/ref=sr_1_1?dib=eyJ2IjoiMSJ9.vanaQUvmYHMm_JPN4V-cDLrc45zma22wlq-BT7jPzF9c110QV2em0y6W9tKPYFsL6wwGNryGyUU138Q3LloQb9a16pZ1xG67BMT_bLxVSYl5HPM4kJ5PZwmw_2P6T4aIK7yFGNTGVr6fVGEgJvioXJuRJmVB-tD-OsqF7dtXCNBV6Sx_t81Bfu9YyVz3z0bBUTlBG-T_-kRTl-772HOaf_r5d2MU05TfEHCo6qIbDYdwdKEnKTRJeN4QoUk7LuyCG8f7ADTq-E3KtAzYvWQpKe5N06ZVIxxFpEXd4MyMP9I.USw6YE8iUFSwuL1LpFps_Ru0ePnsBugP4JqmJ-_h7Aw&dib_tag=se&keywords=helmet&qid=1781331831&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 10937
+    },
+    {
+      "productId": "B011GOY6HG",
+      "title": "Vega Crux ISI Certified Flip-Up Helmet for Men and Women with Clear Visor(Black, Size:M)",
+      "brand": "",
+      "price": 848.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/71Q3A+fwklL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Certified-Flip-Up-Helmet-Women-Clear/dp/B011GOY6HG/ref=sr_1_2?dib=eyJ2IjoiMSJ9.vanaQUvmYHMm_JPN4V-cDLrc45zma22wlq-BT7jPzF9c110QV2em0y6W9tKPYFsL6wwGNryGyUU138Q3LloQb9a16pZ1xG67BMT_bLxVSYl5HPM4kJ5PZwmw_2P6T4aIK7yFGNTGVr6fVGEgJvioXJuRJmVB-tD-OsqF7dtXCNBV6Sx_t81Bfu9YyVz3z0bBUTlBG-T_-kRTl-772HOaf_r5d2MU05TfEHCo6qIbDYdwdKEnKTRJeN4QoUk7LuyCG8f7ADTq-E3KtAzYvWQpKe5N06ZVIxxFpEXd4MyMP9I.USw6YE8iUFSwuL1LpFps_Ru0ePnsBugP4JqmJ-_h7Aw&dib_tag=se&keywords=helmet&qid=1781331831&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 29072
+    },
+    {
+      "productId": "B0D2N9M65W",
+      "title": "Vega Crux Dual Visor Flip Up Riding Helmet with Flip-Up Design, Dual Visor Protection, Comfortable Liner, Ventilated Interior, Shock Absorbing Padding, and Modern Black Styling Black -M",
+      "brand": "",
+      "price": 1488.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61+QpRYX1QL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Vega-Protection-Comfortable-Ventilated-Absorbing/dp/B0D2N9M65W/ref=sr_1_3?dib=eyJ2IjoiMSJ9.vanaQUvmYHMm_JPN4V-cDLrc45zma22wlq-BT7jPzF9c110QV2em0y6W9tKPYFsL6wwGNryGyUU138Q3LloQb9a16pZ1xG67BMT_bLxVSYl5HPM4kJ5PZwmw_2P6T4aIK7yFGNTGVr6fVGEgJvioXJuRJmVB-tD-OsqF7dtXCNBV6Sx_t81Bfu9YyVz3z0bBUTlBG-T_-kRTl-772HOaf_r5d2MU05TfEHCo6qIbDYdwdKEnKTRJeN4QoUk7LuyCG8f7ADTq-E3KtAzYvWQpKe5N06ZVIxxFpEXd4MyMP9I.USw6YE8iUFSwuL1LpFps_Ru0ePnsBugP4JqmJ-_h7Aw&dib_tag=se&keywords=helmet&qid=1781331831&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 75743
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

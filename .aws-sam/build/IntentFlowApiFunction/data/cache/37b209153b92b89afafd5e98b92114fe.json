@@ -1,0 +1,40 @@
+{
+  "searchTerm": "baby stroller",
+  "products": [
+    {
+      "productId": "B015N4WS0M",
+      "title": "LuvLap Sunshine Baby Stroller/Pram for 0 to 3 Years, New Born/Toddler/Kid, 5 Point Safety Harness, Adjustable backrest, 360° Swivel Wheel, Large Storage Basket, Reversible Handlebar (Blue)",
+      "brand": "",
+      "price": 3999.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/8101mlXL3rL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Luvlap-Sunshine-Baby-Stroller-Pram/dp/B015N4WS0M/ref=sr_1_1?dib=eyJ2IjoiMSJ9.DPvD2jaobqFM1E8LInsZ962YfPoN6n_f-EivazlzOgfiwJ36slHIUjY8J9_c_wC_F7gmI-L14gUX3YAcIS-DI54zkE1K3sD5AcTzOuVVB1j9OIvFPh5jARBUMDltqTbmmJN-tgPXfOWz7ao4ko5MfP8VGkjKXe3NHR-woldeJflSqpNr3yUG-p__EJq_vdrSyet3gAHqj3TRfoVnD_BYJk3fCwTYr503tHnoTQ5rb9Q.CFsKBSK775_yuzrlPh40sO6O-kRgpFjToAWCWR6OACQ&dib_tag=se&keywords=baby+stroller&qid=1781331884&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 16566
+    },
+    {
+      "productId": "B0D9HMY8LQ",
+      "title": "Mee Mee Little Explorer Baby Stroller/Pram for 0–3 Years | Foldable with Reversible Handle | 5-Point Safety Harness | Adjustable 3-Position Recline | 360° Wheels & Large Storage Basket | Navy Blue",
+      "brand": "",
+      "price": 3599.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/81zc5CAxESL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Mee-Explorer-Stroller-Adjustable-Reversible/dp/B0D9HMY8LQ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.DPvD2jaobqFM1E8LInsZ962YfPoN6n_f-EivazlzOgfiwJ36slHIUjY8J9_c_wC_F7gmI-L14gUX3YAcIS-DI54zkE1K3sD5AcTzOuVVB1j9OIvFPh5jARBUMDltqTbmmJN-tgPXfOWz7ao4ko5MfP8VGkjKXe3NHR-woldeJflSqpNr3yUG-p__EJq_vdrSyet3gAHqj3TRfoVnD_BYJk3fCwTYr503tHnoTQ5rb9Q.CFsKBSK775_yuzrlPh40sO6O-kRgpFjToAWCWR6OACQ&dib_tag=se&keywords=baby+stroller&qid=1781331884&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 475
+    },
+    {
+      "productId": "B0H2PV3ZXX",
+      "title": "BabyGo Foldable Baby Stroller for Newborn, Infant & Toddler 0–3 Years | Lightweight Travel Pushchair | Safety Harness | Adjustable Recline Backrest | 360° Swivel Wheels | Large Storage Basket | Orange",
+      "brand": "",
+      "price": 3299.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/712eDGfBIvL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/BabyGo-Foldable-Lightweight-Pushchair-Adjustable/dp/B0H2PV3ZXX/ref=sr_1_3?dib=eyJ2IjoiMSJ9.DPvD2jaobqFM1E8LInsZ962YfPoN6n_f-EivazlzOgfiwJ36slHIUjY8J9_c_wC_F7gmI-L14gUX3YAcIS-DI54zkE1K3sD5AcTzOuVVB1j9OIvFPh5jARBUMDltqTbmmJN-tgPXfOWz7ao4ko5MfP8VGkjKXe3NHR-woldeJflSqpNr3yUG-p__EJq_vdrSyet3gAHqj3TRfoVnD_BYJk3fCwTYr503tHnoTQ5rb9Q.CFsKBSK775_yuzrlPh40sO6O-kRgpFjToAWCWR6OACQ&dib_tag=se&keywords=baby+stroller&qid=1781331884&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 1321
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

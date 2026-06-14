@@ -1,0 +1,40 @@
+{
+  "searchTerm": "bicycle",
+  "products": [
+    {
+      "productId": "B089M9HVQP",
+      "title": "Leader Scout MTB 26T Bike Without Gear Single Speed for Men - SEA Green Black, Ideal for 10 + Years,Mountain Bike,Unisex,Rigid,18 inches",
+      "brand": "",
+      "price": 3999.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/81uLms3JtKL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Leader-Mountain-Bicycle-Without-Single/dp/B089M9HVQP/ref=sr_1_1?dib=eyJ2IjoiMSJ9.C6L5kZsO2SvJD6OFgW8DVXAT_X35EWJU5AlgRPIbksn3tdbkhVi-29b00c_OPJxRvPLgM4rIyROu5AtVTBTjBr_7J2TtiEQ2zUkmzU_mG-VRU_vKuOybxjcZMgtkwUZgHFmB1DJv-yJR9-cqmn6mg-VioYJVpBl6tFws9HcAkJlIaNjKixa_wB0ENClFdTL0TDAHOdd-7zrNEEv3WrTzLXH5ibdZlonXSxTGX6RrHSU.7T6blsa9Vq5x-j6BYxzBzAMuBurlzTVE6aGDiw0oucU&dib_tag=se&keywords=bicycle&qid=1781331577&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 7978
+    },
+    {
+      "productId": "B0CSSQZHBJ",
+      "title": "VESCO Envy Black 26T Road Bike with Inbuilt Carrier | Rigid Supsension | 17 Inch Frame | Cycle for Boys/Men (Single Speed)",
+      "brand": "",
+      "price": 4599.0,
+      "rating": 3.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/81uYCGar2yL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/VESCO-Cycle-Inbuilt-Carrier-Single/dp/B0CSSQZHBJ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.C6L5kZsO2SvJD6OFgW8DVXAT_X35EWJU5AlgRPIbksn3tdbkhVi-29b00c_OPJxRvPLgM4rIyROu5AtVTBTjBr_7J2TtiEQ2zUkmzU_mG-VRU_vKuOybxjcZMgtkwUZgHFmB1DJv-yJR9-cqmn6mg-VioYJVpBl6tFws9HcAkJlIaNjKixa_wB0ENClFdTL0TDAHOdd-7zrNEEv3WrTzLXH5ibdZlonXSxTGX6RrHSU.7T6blsa9Vq5x-j6BYxzBzAMuBurlzTVE6aGDiw0oucU&dib_tag=se&keywords=bicycle&qid=1781331577&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 934
+    },
+    {
+      "productId": "B0D571P9KQ",
+      "title": "Leader Beast 26T Mountain Cycle for Men with Front Suspension and Dual Disc Brake with Complete Cycle Accessories | Without Gear Cycle - Ideal for 10+ Years (Frame: 18 Inches) (26T, Matt Black)",
+      "brand": "",
+      "price": 4999.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/81sqQZ-AOwL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Leader-Mountain-Suspension-Complete-Accessories/dp/B0D571P9KQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.C6L5kZsO2SvJD6OFgW8DVXAT_X35EWJU5AlgRPIbksn3tdbkhVi-29b00c_OPJxRvPLgM4rIyROu5AtVTBTjBr_7J2TtiEQ2zUkmzU_mG-VRU_vKuOybxjcZMgtkwUZgHFmB1DJv-yJR9-cqmn6mg-VioYJVpBl6tFws9HcAkJlIaNjKixa_wB0ENClFdTL0TDAHOdd-7zrNEEv3WrTzLXH5ibdZlonXSxTGX6RrHSU.7T6blsa9Vq5x-j6BYxzBzAMuBurlzTVE6aGDiw0oucU&dib_tag=se&keywords=bicycle&qid=1781331577&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 4138
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

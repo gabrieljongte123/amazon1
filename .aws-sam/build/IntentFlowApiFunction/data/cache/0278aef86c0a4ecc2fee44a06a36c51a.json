@@ -1,0 +1,40 @@
+{
+  "searchTerm": "hair clips",
+  "products": [
+    {
+      "productId": "B0FLJMW2LM",
+      "title": "Cerrito Small Hair Claw Clips for Women & Girls – Matte Nonslip Clamps with Strong Hold for Thick & Thin Hair, Neutral Mini Hair Accessories for Everyday Styling (6 Pcs, Multicolor)",
+      "brand": "",
+      "price": 149.0,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/71sxSIExY5L._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Cerrito-Small-Claw-Clips-Women/dp/B0FLJMW2LM/ref=sr_1_1?dib=eyJ2IjoiMSJ9.V86gNstYivwFWdr0VnkJMk0yUW6XrWJOd9UZbJJEGmdrjHr8d1JqJ3hNt10StLakHX97fijv5VSaNxRRcK7CmU59rEfPBlt4zWRv94BCpy9HpMP0kmpvUoY1ZvEy1fYiqZ2L1TTnZKG2IjpEHQgOtpi-8F88GJPLEMeMXQj6S2aZ5L9G94YYeG9cEtbQ9MXm-rG0VYn3ATT5GkuSZSpX3Z6Jg-lLRQbS79upuYXnBSr2zRjJceXBn8Q_ad1q658wpAux5kecqVq8B5yQ3VSUJw1xDycIKTHp9TAP5eczR28.6INmYIph5skEOuX0u_MyfT4ee8eDUfGby7M1dJhExMc&dib_tag=se&keywords=hair+clips&qid=1781331801&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 315
+    },
+    {
+      "productId": "B0FWCT72YW",
+      "title": "Hair Claw Clips for Women and Girls | 3 Large & 3 Small Strong Grip Matte Jaw Clips | Clutcher for Thick and Thin Hair | Ponytail Holder Multicolor (Mix 6 pc)",
+      "brand": "",
+      "price": 185.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61EWPet-PPL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Vanizi-Strong-Clutcher-Ponytail-Multicolor/dp/B0FWCT72YW/ref=sr_1_2?dib=eyJ2IjoiMSJ9.V86gNstYivwFWdr0VnkJMk0yUW6XrWJOd9UZbJJEGmdrjHr8d1JqJ3hNt10StLakHX97fijv5VSaNxRRcK7CmU59rEfPBlt4zWRv94BCpy9HpMP0kmpvUoY1ZvEy1fYiqZ2L1TTnZKG2IjpEHQgOtpi-8F88GJPLEMeMXQj6S2aZ5L9G94YYeG9cEtbQ9MXm-rG0VYn3ATT5GkuSZSpX3Z6Jg-lLRQbS79upuYXnBSr2zRjJceXBn8Q_ad1q658wpAux5kecqVq8B5yQ3VSUJw1xDycIKTHp9TAP5eczR28.6INmYIph5skEOuX0u_MyfT4ee8eDUfGby7M1dJhExMc&dib_tag=se&keywords=hair+clips&qid=1781331801&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 142
+    },
+    {
+      "productId": "B0GKWB6MND",
+      "title": "Premium 11 Pcs Matte Finish Hair Claw Clips for Women and Girls - Trendy Neutral Nude Colors, Non-Slip Strong Hold Hair Accessory Set, Aesthetic Minimalist Butterfly, Flower, and Geometric Designs, Perfect for Thick and Thin Hair, Durable Hair Clamps , Party, and Styling - Large & Medium Sizes (Combo Pack)",
+      "brand": "",
+      "price": 170.0,
+      "rating": 3,
+      "imageUrl": "https://m.media-amazon.com/images/I/51zJdF4axfL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Premium-Matte-Finish-Clips-Women/dp/B0GKWB6MND/ref=sr_1_3?dib=eyJ2IjoiMSJ9.V86gNstYivwFWdr0VnkJMk0yUW6XrWJOd9UZbJJEGmdrjHr8d1JqJ3hNt10StLakHX97fijv5VSaNxRRcK7CmU59rEfPBlt4zWRv94BCpy9HpMP0kmpvUoY1ZvEy1fYiqZ2L1TTnZKG2IjpEHQgOtpi-8F88GJPLEMeMXQj6S2aZ5L9G94YYeG9cEtbQ9MXm-rG0VYn3ATT5GkuSZSpX3Z6Jg-lLRQbS79upuYXnBSr2zRjJceXBn8Q_ad1q658wpAux5kecqVq8B5yQ3VSUJw1xDycIKTHp9TAP5eczR28.6INmYIph5skEOuX0u_MyfT4ee8eDUfGby7M1dJhExMc&dib_tag=se&keywords=hair+clips&qid=1781331801&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 29
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

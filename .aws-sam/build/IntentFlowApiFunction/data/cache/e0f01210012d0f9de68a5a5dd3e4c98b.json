@@ -1,0 +1,40 @@
+{
+  "searchTerm": "protein shaker",
+  "products": [
+    {
+      "productId": "B08TM2V4WT",
+      "title": "Boldfit Gym Bottle Bottles For Protein Shake 100% Leakproof Guarantee Protein Shaker Sipper Bottle, Ideal For Protein, Pre Workout And BCAAs Gym Bottle for Men & Women",
+      "brand": "",
+      "price": 218.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61caaA5IlrL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Boldfit-Bottles-Leakproof-Guarantee-Material/dp/B08TM2V4WT/ref=sr_1_1?dib=eyJ2IjoiMSJ9.HgzXuzoMWT_8pL6p-Mnm5wW5G-Xxz0TH6NeOq9puhPdEsjeUMbuQe5UjF7OKHdDr_-eME9rOqWG0K8uaHMqq6D1P5XGlSSiTAbMFhpMrRl1OzwPRvO4GboT2cJ7CVl0_AK5yZXGcHpxsFhUWubwS8nXo4weyZQUYw6aCQcofooSS2sYRIZI6soJ8IWOr83eff1tG6-s5_HXS73EH6J9w8vxwUt8PLjuvO1O2L7iTrxP9C4ZE2aJI-6Vx4bvY8f8ABe6LJH0IRLtL0-ezwCeKRi4aOdBwJENYeLfNSIhb-hk.SBH3HAW_wVLnjrTUrw49cDTrrihffTZGFQMtU2oE5qg&dib_tag=se&keywords=protein+shaker&qid=1781331597&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 8172
+    },
+    {
+      "productId": "B0F74PNNXP",
+      "title": "CULT Micro Protein Shaker Bottle 500ml for Men & Women – Compact, Leakproof, BPA-Free Gym Shaker with Wire Mixer – Ideal for Protein Shakes, Pre-Workout & Smoothies - Black",
+      "brand": "",
+      "price": 139.0,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/41I-os1BNjL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/CULT-Micro-Protein-Shaker-Bottle/dp/B0F74PNNXP/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HgzXuzoMWT_8pL6p-Mnm5wW5G-Xxz0TH6NeOq9puhPdEsjeUMbuQe5UjF7OKHdDr_-eME9rOqWG0K8uaHMqq6D1P5XGlSSiTAbMFhpMrRl1OzwPRvO4GboT2cJ7CVl0_AK5yZXGcHpxsFhUWubwS8nXo4weyZQUYw6aCQcofooSS2sYRIZI6soJ8IWOr83eff1tG6-s5_HXS73EH6J9w8vxwUt8PLjuvO1O2L7iTrxP9C4ZE2aJI-6Vx4bvY8f8ABe6LJH0IRLtL0-ezwCeKRi4aOdBwJENYeLfNSIhb-hk.SBH3HAW_wVLnjrTUrw49cDTrrihffTZGFQMtU2oE5qg&dib_tag=se&keywords=protein+shaker&qid=1781331597&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 218
+    },
+    {
+      "productId": "B0F18WQRT5",
+      "title": "Carbamide Forte Storm Shaker for Gym Bottle 700ml | Protein Shaker Bottle | 100% Leakproof, BPA Free, Durable Gym Shaker 700ml | Cyclone Blender for Smooth Shakes",
+      "brand": "",
+      "price": 199.0,
+      "rating": 3.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/71zyYrQDssL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Carbamide-Forte-Stainless-Leakproof-Measurement/dp/B0F18WQRT5/ref=sr_1_3?dib=eyJ2IjoiMSJ9.HgzXuzoMWT_8pL6p-Mnm5wW5G-Xxz0TH6NeOq9puhPdEsjeUMbuQe5UjF7OKHdDr_-eME9rOqWG0K8uaHMqq6D1P5XGlSSiTAbMFhpMrRl1OzwPRvO4GboT2cJ7CVl0_AK5yZXGcHpxsFhUWubwS8nXo4weyZQUYw6aCQcofooSS2sYRIZI6soJ8IWOr83eff1tG6-s5_HXS73EH6J9w8vxwUt8PLjuvO1O2L7iTrxP9C4ZE2aJI-6Vx4bvY8f8ABe6LJH0IRLtL0-ezwCeKRi4aOdBwJENYeLfNSIhb-hk.SBH3HAW_wVLnjrTUrw49cDTrrihffTZGFQMtU2oE5qg&dib_tag=se&keywords=protein+shaker&qid=1781331597&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 1072
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

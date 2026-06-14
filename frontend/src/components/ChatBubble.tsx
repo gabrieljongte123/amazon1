@@ -35,15 +35,16 @@ function ChatBubble({ message, onOptionClick }: ChatBubbleProps) {
         {!isUser && isRecommendations && message.products && message.products.length > 0 && (
           <div className="chat-bubble__products">
             {message.products.map((product) => {
-              // Only link to Amazon if we have a REAL amazon product URL (not a search fallback)
+              // Real direct product URL: must contain /dp/ and come from amazon cache
               const hasRealUrl = product.url && 
                 product.url.includes('/dp/') && 
-                product.source === 'amazon';
+                (product.source === 'amazon' || product.source === 'amazon_similar');
               
-              // For all products, generate the Amazon link (either direct or search)
+              // For all products: if real /dp/ URL → use it directly
+              // Otherwise → always generate a search URL from THIS product's own title
               const amazonLink = hasRealUrl 
                 ? product.url 
-                : (product.url || `https://www.amazon.in/s?k=${encodeURIComponent(product.title)}`);
+                : `https://www.amazon.in/s?k=${encodeURIComponent(product.title)}`;
               
               return (
                 <div key={product.productId} className="chat-bubble__product-card">
@@ -91,7 +92,11 @@ function ChatBubble({ message, onOptionClick }: ChatBubbleProps) {
                           });
                           sessionStorage.setItem('intentflow-purchases', JSON.stringify(purchases.slice(0, 10)));
                         } catch { /* ignore */ }
-                        onOptionClick?.(`Add ${product.title} to cart`);
+                        // Truncate long titles to prevent ugly chat bubbles
+                        const shortTitle = product.title.length > 60 
+                          ? product.title.substring(0, 57) + '...' 
+                          : product.title;
+                        onOptionClick?.(`Add ${shortTitle} to cart`);
                       }}
                     >
                       🛒 Add to Cart
@@ -112,7 +117,10 @@ function ChatBubble({ message, onOptionClick }: ChatBubbleProps) {
                           });
                           sessionStorage.setItem('intentflow-purchases', JSON.stringify(purchases.slice(0, 10)));
                         } catch { /* ignore */ }
-                        onOptionClick?.(`Buy ${product.title}`);
+                        const shortTitle = product.title.length > 60
+                          ? product.title.substring(0, 57) + '...'
+                          : product.title;
+                        onOptionClick?.(`Buy ${shortTitle}`);
                       }}
                     >
                       ⚡ Buy Now
@@ -124,8 +132,9 @@ function ChatBubble({ message, onOptionClick }: ChatBubbleProps) {
                         rel="noopener noreferrer"
                         className="chat-bubble__view-amazon-btn"
                         onClick={(e) => e.stopPropagation()}
+                        title={hasRealUrl ? 'View on Amazon' : `Search "${product.title}" on Amazon`}
                       >
-                        🔗 Amazon
+                        {hasRealUrl ? '🔗 Amazon' : '🔍 Search'}
                       </a>
                     )}
                   </div>

@@ -1,0 +1,40 @@
+{
+  "searchTerm": "hp laptop",
+  "products": [
+    {
+      "productId": "B0DJCWZ5BT",
+      "title": "HP Laptop 245 G9 AMD Ryzen 3 3250U Dual Core - (8GB/512GB SSD/AMD Radeon Graphics) Thin and Light Business Laptop/14 (35.56Cm)/Silver/1.47 Kg",
+      "brand": "HP",
+      "price": 37990.0,
+      "rating": 3.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/71-S1RFX3qL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/HP-Laptop-245-G9-Ryzen/dp/B0DJCWZ5BT/ref=sr_1_1?dib=eyJ2IjoiMSJ9.aKJa4yIdwE_oUw6bjKpybjaZHcdvngC21xi8WkFw-SPoQnvO3kU0a3dQ7QUR_qGl51mL1Tq5u6TA7Kyx-Cszxqib_TeWQGEctoHkcUp6xypH1eoe9cGW72Tll31ZcN28GC8l8RFIZd96v6q5ep-Yhko5qs8xhM0LajD0lUIhgveq29J8j7s708a-VTswQcixtC82v_I2uDvmzFpt9dBGW5j2roNCWYiZJJpfvByF9DM.pVJ5Ju6ujWXoucc9LU82bYodkd4SRBMRMv1uQykpXq0&dib_tag=se&keywords=hp+laptop&qid=1781330508&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 37
+    },
+    {
+      "productId": "B0CY2PLQ8N",
+      "title": "HP 15, AMD Ryzen 5 7520U,(16GB LPDDR5, 512GB SSD), Anti-Glare, Micro-Edge, FHD, 15.6''/39.6cm, Win 11, Office 24,M365 Basic(1yr)*,Silver, 1.59kg, fc0690au, FHD Camera, Backlit KB Laptop",
+      "brand": "HP",
+      "price": 59800.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71qeL9SvpeL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/HP-Anti-Glare-Micro-Edge-fc0690au-Graphics/dp/B0CY2PLQ8N/ref=sr_1_2?dib=eyJ2IjoiMSJ9.aKJa4yIdwE_oUw6bjKpybjaZHcdvngC21xi8WkFw-SPoQnvO3kU0a3dQ7QUR_qGl51mL1Tq5u6TA7Kyx-Cszxqib_TeWQGEctoHkcUp6xypH1eoe9cGW72Tll31ZcN28GC8l8RFIZd96v6q5ep-Yhko5qs8xhM0LajD0lUIhgveq29J8j7s708a-VTswQcixtC82v_I2uDvmzFpt9dBGW5j2roNCWYiZJJpfvByF9DM.pVJ5Ju6ujWXoucc9LU82bYodkd4SRBMRMv1uQykpXq0&dib_tag=se&keywords=hp+laptop&qid=1781330508&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 177
+    },
+    {
+      "productId": "B0GY75ZCZS",
+      "title": "HP 15 (2026), AMD Ryzen 3 Quad Core 7335U - (8 GB DDR5/512 GB SSD/AMD Radeon 660M Graphics/Windows 11 Home) Thin and Light Business Laptop/15.6\" Display/Turbo Silver/Copilot Key/1.5kg/MS Office",
+      "brand": "HP",
+      "price": 43380.0,
+      "rating": 0.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71vF+WK+vrL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/HP-15-Ryzen-Quad-7335U/dp/B0GY75ZCZS/ref=sr_1_3?dib=eyJ2IjoiMSJ9.aKJa4yIdwE_oUw6bjKpybjaZHcdvngC21xi8WkFw-SPoQnvO3kU0a3dQ7QUR_qGl51mL1Tq5u6TA7Kyx-Cszxqib_TeWQGEctoHkcUp6xypH1eoe9cGW72Tll31ZcN28GC8l8RFIZd96v6q5ep-Yhko5qs8xhM0LajD0lUIhgveq29J8j7s708a-VTswQcixtC82v_I2uDvmzFpt9dBGW5j2roNCWYiZJJpfvByF9DM.pVJ5Ju6ujWXoucc9LU82bYodkd4SRBMRMv1uQykpXq0&dib_tag=se&keywords=hp+laptop&qid=1781330508&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 0
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

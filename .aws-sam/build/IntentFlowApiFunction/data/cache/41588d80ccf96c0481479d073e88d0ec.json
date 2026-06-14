@@ -1,0 +1,40 @@
+{
+  "searchTerm": "phone charger",
+  "products": [
+    {
+      "productId": "B0H229NR2Z",
+      "title": "SB 80W SuperVOOC Fast Charger with USB to Type C Cable | 7.3A Mobile Charger Adapter | Supports VOOC, Warp, Dash, Dart & Super Fast Charging | Compatible for OnePlus, Realme, Oppo Smartphonesr",
+      "brand": "",
+      "price": 339.0,
+      "rating": 4.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/51vEpUe6JaL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/SB-SuperVOOC-Supports-Compatible-Smartphonesr/dp/B0H229NR2Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.fPb45gQUgM5XzTZlxBzoaEe6hEcktd0C-5cxViTrg2FbYbjUKtQT2H6dkURWho9pxef86jyFpnl30NFar7yABMr_7dLbw6ciSAcy3iE9yeqW3UAUP-IJZ5PjHtaVDGNchObgcO35leugyof6GIW-kgf8U4UPUMt8_wexnsdfaGbtTjwluI6gMw9BLoEAnmJzPT2feVCpSjBT4Q8blzCkd2TV3nU_D3cwsgnpMOYdzKY.YHgND9zcwNpdm0PrSlG0ovQLR-CqgZMwafL1ckM2WoM&dib_tag=se&keywords=phone+charger&qid=1781331656&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 38
+    },
+    {
+      "productId": "B0GRN4FCCM",
+      "title": "MAK Original 80W SuperVOOC Fast Charging Adapter with USB to Type C Cable,Red, Upto 80W Power Delivery Wall Charger Compatible with OnePlus 11, Nord CE3, Fast Charge for USB-C Smartphones.",
+      "brand": "",
+      "price": 283.0,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61dA3n7GfvL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/MAK-Original-SuperVOOC-Compatible-Smartphones/dp/B0GRN4FCCM/ref=sr_1_2?dib=eyJ2IjoiMSJ9.fPb45gQUgM5XzTZlxBzoaEe6hEcktd0C-5cxViTrg2FbYbjUKtQT2H6dkURWho9pxef86jyFpnl30NFar7yABMr_7dLbw6ciSAcy3iE9yeqW3UAUP-IJZ5PjHtaVDGNchObgcO35leugyof6GIW-kgf8U4UPUMt8_wexnsdfaGbtTjwluI6gMw9BLoEAnmJzPT2feVCpSjBT4Q8blzCkd2TV3nU_D3cwsgnpMOYdzKY.YHgND9zcwNpdm0PrSlG0ovQLR-CqgZMwafL1ckM2WoM&dib_tag=se&keywords=phone+charger&qid=1781331656&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 6
+    },
+    {
+      "productId": "B0CHJQ28F3",
+      "title": "Portronics Adapto 12 2.4A 12W Fast Wall Charger for iPhone 11/Xs/XS Max/XR/X/8/7/6/Plus, iPad Pro/Air 2/Mini 3/Mini 4, Samsung S4/S5, and More(White)",
+      "brand": "",
+      "price": 168.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/51w9roMijiL._AC_UY218_.jpg",
+      "url": "https://www.amazon.in/Portronics-Adapto-12-Charger-Samsung/dp/B0CHJQ28F3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.fPb45gQUgM5XzTZlxBzoaEe6hEcktd0C-5cxViTrg2FbYbjUKtQT2H6dkURWho9pxef86jyFpnl30NFar7yABMr_7dLbw6ciSAcy3iE9yeqW3UAUP-IJZ5PjHtaVDGNchObgcO35leugyof6GIW-kgf8U4UPUMt8_wexnsdfaGbtTjwluI6gMw9BLoEAnmJzPT2feVCpSjBT4Q8blzCkd2TV3nU_D3cwsgnpMOYdzKY.YHgND9zcwNpdm0PrSlG0ovQLR-CqgZMwafL1ckM2WoM&dib_tag=se&keywords=phone+charger&qid=1781331656&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 3064
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}

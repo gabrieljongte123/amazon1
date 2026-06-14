@@ -10,7 +10,7 @@ function AppHeader() {
   return (
     <header className="app-header">
       <div className="app-header__left" onClick={() => navigate('/')} style={{cursor: 'pointer'}}>
-        <img src="/amazon.jpg" alt="Amazon" className="app-header__logo-img" />
+        <img src="/amazon.png" alt="Amazon" className="app-header__logo-img" />
         <span className="app-header__title">IntentFlow</span>
       </div>
       <div className="app-header__right">

@@ -1,0 +1,990 @@
+{
+  "products": [
+    {
+      "productId": "PROD-001",
+      "title": "Nike Air Zoom Pegasus 40",
+      "category": "Fashion",
+      "brand": "Nike",
+      "price": 2499,
+      "size": "9",
+      "color": "Black",
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Nike+Air+Zoom+Pegasu",
+      "attributes": {
+        "subcategory": "shoes",
+        "type": "running",
+        "gender": "unisex",
+        "priceRange": "2000-3000"
+      }
+    },
+    {
+      "productId": "PROD-002",
+      "title": "Adidas Ultraboost Light",
+      "category": "Fashion",
+      "brand": "Adidas",
+      "price": 3999,
+      "size": "8",
+      "color": "White",
+      "rating": 4.7,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Adidas+Ultraboost+Li",
+      "attributes": {
+        "subcategory": "shoes",
+        "type": "running",
+        "gender": "men",
+        "priceRange": "3000-5000"
+      }
+    },
+    {
+      "productId": "PROD-003",
+      "title": "Puma RS-X Reinvention",
+      "category": "Fashion",
+      "brand": "Puma",
+      "price": 1899,
+      "size": "10",
+      "color": "Blue",
+      "rating": 4.2,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Puma+RS-X+Reinventio",
+      "attributes": {
+        "subcategory": "shoes",
+        "type": "casual",
+        "gender": "men",
+        "priceRange": "1000-2000"
+      }
+    },
+    {
+      "productId": "PROD-004",
+      "title": "Allen Solly Slim Fit Formal Shirt",
+      "category": "Fashion",
+      "brand": "Allen Solly",
+      "price": 1299,
+      "size": "L",
+      "color": "White",
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Allen+Solly+Slim+Fit",
+      "attributes": {
+        "subcategory": "shirts",
+        "type": "formal",
+        "gender": "men",
+        "priceRange": "1000-2000"
+      }
+    },
+    {
+      "productId": "PROD-005",
+      "title": "Levi's 511 Slim Fit Jeans",
+      "category": "Fashion",
+      "brand": "Levi's",
+      "price": 2799,
+      "size": "32",
+      "color": "Indigo",
+      "rating": 4.6,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Levi's+511+Slim+Fit+",
+      "attributes": {
+        "subcategory": "pants",
+        "type": "jeans",
+        "gender": "men",
+        "priceRange": "2000-3000"
+      }
+    },
+    {
+      "productId": "PROD-006",
+      "title": "Van Heusen Cotton Chinos",
+      "category": "Fashion",
+      "brand": "Van Heusen",
+      "price": 1599,
+      "size": "34",
+      "color": "Khaki",
+      "rating": 4.1,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Van+Heusen+Cotton+Ch",
+      "attributes": {
+        "subcategory": "pants",
+        "type": "chinos",
+        "gender": "men",
+        "priceRange": "1000-2000"
+      }
+    },
+    {
+      "productId": "PROD-007",
+      "title": "Biba Printed Anarkali Kurta",
+      "category": "Fashion",
+      "brand": "Biba",
+      "price": 1799,
+      "size": "M",
+      "color": "Red",
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Biba+Printed+Anarkal",
+      "attributes": {
+        "subcategory": "shirts",
+        "type": "ethnic",
+        "gender": "women",
+        "priceRange": "1000-2000"
+      }
+    },
+    {
+      "productId": "PROD-008",
+      "title": "U.S. Polo Assn. Polo T-Shirt",
+      "category": "Fashion",
+      "brand": "U.S. Polo",
+      "price": 899,
+      "size": "XL",
+      "color": "Navy",
+      "rating": 4.0,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=U.S.+Polo+Assn.+Polo",
+      "attributes": {
+        "subcategory": "shirts",
+        "type": "casual",
+        "gender": "men",
+        "priceRange": "500-1000"
+      }
+    },
+    {
+      "productId": "PROD-009",
+      "title": "Converse Chuck Taylor All Star",
+      "category": "Fashion",
+      "brand": "Converse",
+      "price": 2999,
+      "size": "7",
+      "color": "Black",
+      "rating": 4.8,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Converse+Chuck+Taylo",
+      "attributes": {
+        "subcategory": "shoes",
+        "type": "casual",
+        "gender": "unisex",
+        "priceRange": "2000-3000"
+      }
+    },
+    {
+      "productId": "PROD-010",
+      "title": "W Women Palazzo Pants",
+      "category": "Fashion",
+      "brand": "W",
+      "price": 999,
+      "size": "S",
+      "color": "Olive",
+      "rating": 4.2,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=W+Women+Palazzo+Pant",
+      "attributes": {
+        "subcategory": "pants",
+        "type": "ethnic",
+        "gender": "women",
+        "priceRange": "500-1000"
+      }
+    },
+    {
+      "productId": "PROD-011",
+      "title": "Woodland Leather Hiking Boots",
+      "category": "Fashion",
+      "brand": "Woodland",
+      "price": 4299,
+      "size": "9",
+      "color": "Brown",
+      "rating": 4.6,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Woodland+Leather+Hik",
+      "attributes": {
+        "subcategory": "shoes",
+        "type": "hiking",
+        "gender": "men",
+        "priceRange": "3000-5000"
+      }
+    },
+    {
+      "productId": "PROD-012",
+      "title": "H&M Oversized Hoodie",
+      "category": "Fashion",
+      "brand": "H&M",
+      "price": 1499,
+      "size": "L",
+      "color": "Grey",
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=H&M+Oversized+Hoodie",
+      "attributes": {
+        "subcategory": "shirts",
+        "type": "casual",
+        "gender": "unisex",
+        "priceRange": "1000-2000"
+      }
+    },
+    {
+      "productId": "PROD-013",
+      "title": "Tata Sampann Chana Dal 1kg",
+      "category": "Grocery",
+      "brand": "Tata Sampann",
+      "price": 145,
+      "size": "1kg",
+      "color": null,
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Tata+Sampann+Chana+D",
+      "attributes": {
+        "type": "pulses",
+        "dietary": "vegetarian",
+        "priceRange": "100-200"
+      }
+    },
+    {
+      "productId": "PROD-014",
+      "title": "Aashirvaad Whole Wheat Atta 5kg",
+      "category": "Grocery",
+      "brand": "Aashirvaad",
+      "price": 299,
+      "size": "5kg",
+      "color": null,
+      "rating": 4.6,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Aashirvaad+Whole+Whe",
+      "attributes": {
+        "type": "flour",
+        "dietary": "vegetarian",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-015",
+      "title": "Fortune Sunlite Refined Oil 5L",
+      "category": "Grocery",
+      "brand": "Fortune",
+      "price": 699,
+      "size": "5L",
+      "color": null,
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Fortune+Sunlite+Refi",
+      "attributes": {
+        "type": "cooking-oil",
+        "dietary": "vegetarian",
+        "priceRange": "500-1000"
+      }
+    },
+    {
+      "productId": "PROD-016",
+      "title": "Amul Butter 500g",
+      "category": "Grocery",
+      "brand": "Amul",
+      "price": 275,
+      "size": "500g",
+      "color": null,
+      "rating": 4.8,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Amul+Butter+500g",
+      "attributes": {
+        "type": "dairy",
+        "dietary": "vegetarian",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-017",
+      "title": "Maggi 2-Minute Noodles Pack of 12",
+      "category": "Grocery",
+      "brand": "Maggi",
+      "price": 168,
+      "size": "12 pack",
+      "color": null,
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Maggi+2-Minute+Noodl",
+      "attributes": {
+        "type": "instant-food",
+        "dietary": "vegetarian",
+        "priceRange": "100-200"
+      }
+    },
+    {
+      "productId": "PROD-018",
+      "title": "Tata Tea Gold 1kg",
+      "category": "Grocery",
+      "brand": "Tata",
+      "price": 520,
+      "size": "1kg",
+      "color": null,
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Tata+Tea+Gold+1kg",
+      "attributes": {
+        "type": "beverages",
+        "dietary": "vegetarian",
+        "priceRange": "500-1000"
+      }
+    },
+    {
+      "productId": "PROD-019",
+      "title": "Daawat Basmati Rice 5kg",
+      "category": "Grocery",
+      "brand": "Daawat",
+      "price": 599,
+      "size": "5kg",
+      "color": null,
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Daawat+Basmati+Rice+",
+      "attributes": {
+        "type": "rice",
+        "dietary": "vegetarian",
+        "priceRange": "500-1000"
+      }
+    },
+    {
+      "productId": "PROD-020",
+      "title": "Nescafe Classic Coffee 200g",
+      "category": "Grocery",
+      "brand": "Nescafe",
+      "price": 450,
+      "size": "200g",
+      "color": null,
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Nescafe+Classic+Coff",
+      "attributes": {
+        "type": "beverages",
+        "dietary": "vegetarian",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-021",
+      "title": "Haldiram's Aloo Bhujia 400g",
+      "category": "Grocery",
+      "brand": "Haldiram's",
+      "price": 180,
+      "size": "400g",
+      "color": null,
+      "rating": 4.2,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Haldiram's+Aloo+Bhuj",
+      "attributes": {
+        "type": "snacks",
+        "dietary": "vegetarian",
+        "priceRange": "100-200"
+      }
+    },
+    {
+      "productId": "PROD-022",
+      "title": "Saffola Gold Refined Oil 1L",
+      "category": "Grocery",
+      "brand": "Saffola",
+      "price": 199,
+      "size": "1L",
+      "color": null,
+      "rating": 4.1,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Saffola+Gold+Refined",
+      "attributes": {
+        "type": "cooking-oil",
+        "dietary": "vegetarian",
+        "priceRange": "100-200"
+      }
+    },
+    {
+      "productId": "PROD-023",
+      "title": "Organic Tattva Quinoa 500g",
+      "category": "Grocery",
+      "brand": "Organic Tattva",
+      "price": 349,
+      "size": "500g",
+      "color": null,
+      "rating": 4.0,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Organic+Tattva+Quino",
+      "attributes": {
+        "type": "grains",
+        "dietary": "organic",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-024",
+      "title": "Bosch GSB 500W Impact Drill",
+      "category": "Tools",
+      "brand": "Bosch",
+      "price": 2899,
+      "size": null,
+      "color": "Green",
+      "rating": 4.6,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Bosch+GSB+500W+Impac",
+      "attributes": {
+        "type": "drill",
+        "powerSource": "electric",
+        "priceRange": "2000-3000"
+      }
+    },
+    {
+      "productId": "PROD-025",
+      "title": "Stanley 51-Piece Screwdriver Set",
+      "category": "Tools",
+      "brand": "Stanley",
+      "price": 1499,
+      "size": null,
+      "color": "Yellow",
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Stanley+51-Piece+Scr",
+      "attributes": {
+        "type": "screwdriver",
+        "powerSource": "manual",
+        "priceRange": "1000-2000"
+      }
+    },
+    {
+      "productId": "PROD-026",
+      "title": "Black+Decker 20V Cordless Drill",
+      "category": "Tools",
+      "brand": "Black+Decker",
+      "price": 4599,
+      "size": null,
+      "color": "Orange",
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Black+Decker+20V+Cor",
+      "attributes": {
+        "type": "drill",
+        "powerSource": "battery",
+        "priceRange": "3000-5000"
+      }
+    },
+    {
+      "productId": "PROD-027",
+      "title": "Taparia 5-Meter Measuring Tape",
+      "category": "Tools",
+      "brand": "Taparia",
+      "price": 299,
+      "size": "5m",
+      "color": "Yellow",
+      "rating": 4.2,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Taparia+5-Meter+Meas",
+      "attributes": {
+        "type": "measuring",
+        "powerSource": "manual",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-028",
+      "title": "Dewalt DWE4010 Angle Grinder",
+      "category": "Tools",
+      "brand": "Dewalt",
+      "price": 3299,
+      "size": null,
+      "color": "Yellow",
+      "rating": 4.7,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Dewalt+DWE4010+Angle",
+      "attributes": {
+        "type": "grinder",
+        "powerSource": "electric",
+        "priceRange": "3000-5000"
+      }
+    },
+    {
+      "productId": "PROD-029",
+      "title": "Bosch GST 650 Jigsaw",
+      "category": "Tools",
+      "brand": "Bosch",
+      "price": 3799,
+      "size": null,
+      "color": "Blue",
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Bosch+GST+650+Jigsaw",
+      "attributes": {
+        "type": "saw",
+        "powerSource": "electric",
+        "priceRange": "3000-5000"
+      }
+    },
+    {
+      "productId": "PROD-030",
+      "title": "Ambika Adjustable Wrench 10-inch",
+      "category": "Tools",
+      "brand": "Ambika",
+      "price": 599,
+      "size": "10 inch",
+      "color": "Silver",
+      "rating": 4.0,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Ambika+Adjustable+Wr",
+      "attributes": {
+        "type": "wrench",
+        "powerSource": "manual",
+        "priceRange": "500-1000"
+      }
+    },
+    {
+      "productId": "PROD-031",
+      "title": "Makita HP332D Cordless Hammer Drill",
+      "category": "Tools",
+      "brand": "Makita",
+      "price": 8999,
+      "size": null,
+      "color": "Teal",
+      "rating": 4.8,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Makita+HP332D+Cordle",
+      "attributes": {
+        "type": "drill",
+        "powerSource": "battery",
+        "priceRange": "5000-10000"
+      }
+    },
+    {
+      "productId": "PROD-032",
+      "title": "Stanley STHT72079 Claw Hammer",
+      "category": "Tools",
+      "brand": "Stanley",
+      "price": 449,
+      "size": null,
+      "color": "Black",
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Stanley+STHT72079+Cl",
+      "attributes": {
+        "type": "hammer",
+        "powerSource": "manual",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-033",
+      "title": "Taparia 1405 Plier Set",
+      "category": "Tools",
+      "brand": "Taparia",
+      "price": 799,
+      "size": null,
+      "color": "Red",
+      "rating": 4.1,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Taparia+1405+Plier+S",
+      "attributes": {
+        "type": "pliers",
+        "powerSource": "manual",
+        "priceRange": "500-1000"
+      }
+    },
+    {
+      "productId": "PROD-034",
+      "title": "Hitachi CR13V2 Reciprocating Saw",
+      "category": "Tools",
+      "brand": "Hitachi",
+      "price": 6499,
+      "size": null,
+      "color": "Green",
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Hitachi+CR13V2+Recip",
+      "attributes": {
+        "type": "saw",
+        "powerSource": "electric",
+        "priceRange": "5000-10000"
+      }
+    },
+    {
+      "productId": "PROD-035",
+      "title": "Sony WH-1000XM5 Headphones",
+      "category": "Electronics",
+      "brand": "Sony",
+      "price": 24990,
+      "size": null,
+      "color": "Black",
+      "rating": 4.8,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Sony+WH-1000XM5+Head",
+      "attributes": {
+        "type": "headphones",
+        "connectivity": "bluetooth",
+        "priceRange": "20000-30000"
+      }
+    },
+    {
+      "productId": "PROD-036",
+      "title": "Samsung Galaxy S24 128GB",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "price": 59999,
+      "size": "6.2 inch",
+      "color": "Phantom Black",
+      "rating": 4.6,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Samsung+Galaxy+S24+1",
+      "attributes": {
+        "type": "smartphone",
+        "connectivity": "5G",
+        "priceRange": "50000-70000"
+      }
+    },
+    {
+      "productId": "PROD-037",
+      "title": "Apple iPad 10th Gen 64GB",
+      "category": "Electronics",
+      "brand": "Apple",
+      "price": 34900,
+      "size": "10.9 inch",
+      "color": "Silver",
+      "rating": 4.7,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Apple+iPad+10th+Gen+",
+      "attributes": {
+        "type": "tablet",
+        "connectivity": "wifi",
+        "priceRange": "30000-50000"
+      }
+    },
+    {
+      "productId": "PROD-038",
+      "title": "JBL Tune 760NC Headphones",
+      "category": "Electronics",
+      "brand": "JBL",
+      "price": 4999,
+      "size": null,
+      "color": "Blue",
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=JBL+Tune+760NC+Headp",
+      "attributes": {
+        "type": "headphones",
+        "connectivity": "bluetooth",
+        "priceRange": "3000-5000"
+      }
+    },
+    {
+      "productId": "PROD-039",
+      "title": "Realme Narzo 70 Pro 128GB",
+      "category": "Electronics",
+      "brand": "Realme",
+      "price": 16999,
+      "size": "6.7 inch",
+      "color": "Green",
+      "rating": 4.2,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Realme+Narzo+70+Pro+",
+      "attributes": {
+        "type": "smartphone",
+        "connectivity": "5G",
+        "priceRange": "15000-20000"
+      }
+    },
+    {
+      "productId": "PROD-040",
+      "title": "Samsung Galaxy Tab A9 64GB",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "price": 13999,
+      "size": "8.7 inch",
+      "color": "Grey",
+      "rating": 4.1,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Samsung+Galaxy+Tab+A",
+      "attributes": {
+        "type": "tablet",
+        "connectivity": "wifi",
+        "priceRange": "10000-15000"
+      }
+    },
+    {
+      "productId": "PROD-041",
+      "title": "boAt Rockerz 450 Headphones",
+      "category": "Electronics",
+      "brand": "boAt",
+      "price": 1499,
+      "size": null,
+      "color": "Black",
+      "rating": 4.0,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=boAt+Rockerz+450+Hea",
+      "attributes": {
+        "type": "headphones",
+        "connectivity": "bluetooth",
+        "priceRange": "1000-2000"
+      }
+    },
+    {
+      "productId": "PROD-042",
+      "title": "OnePlus Nord CE 4 Lite 128GB",
+      "category": "Electronics",
+      "brand": "OnePlus",
+      "price": 19999,
+      "size": "6.67 inch",
+      "color": "Blue",
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=OnePlus+Nord+CE+4+Li",
+      "attributes": {
+        "type": "smartphone",
+        "connectivity": "5G",
+        "priceRange": "15000-20000"
+      }
+    },
+    {
+      "productId": "PROD-043",
+      "title": "Lenovo Tab M11 128GB",
+      "category": "Electronics",
+      "brand": "Lenovo",
+      "price": 17999,
+      "size": "11 inch",
+      "color": "Grey",
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Lenovo+Tab+M11+128GB",
+      "attributes": {
+        "type": "tablet",
+        "connectivity": "wifi",
+        "priceRange": "15000-20000"
+      }
+    },
+    {
+      "productId": "PROD-044",
+      "title": "Sony WF-C700N Earbuds",
+      "category": "Electronics",
+      "brand": "Sony",
+      "price": 6990,
+      "size": null,
+      "color": "White",
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Sony+WF-C700N+Earbud",
+      "attributes": {
+        "type": "headphones",
+        "connectivity": "bluetooth",
+        "priceRange": "5000-10000"
+      }
+    },
+    {
+      "productId": "PROD-045",
+      "title": "Xiaomi Redmi Note 13 Pro 128GB",
+      "category": "Electronics",
+      "brand": "Xiaomi",
+      "price": 21999,
+      "size": "6.67 inch",
+      "color": "Purple",
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Xiaomi+Redmi+Note+13",
+      "attributes": {
+        "type": "smartphone",
+        "connectivity": "5G",
+        "priceRange": "20000-30000"
+      }
+    },
+    {
+      "productId": "PROD-046",
+      "title": "Dettol Antiseptic Liquid 1L",
+      "category": "Essentials",
+      "brand": "Dettol",
+      "price": 239,
+      "size": "1L",
+      "color": null,
+      "rating": 4.7,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Dettol+Antiseptic+Li",
+      "attributes": {
+        "type": "hygiene",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-047",
+      "title": "Colgate MaxFresh Toothpaste 300g",
+      "category": "Essentials",
+      "brand": "Colgate",
+      "price": 189,
+      "size": "300g",
+      "color": null,
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Colgate+MaxFresh+Too",
+      "attributes": {
+        "type": "oral-care",
+        "priceRange": "100-200"
+      }
+    },
+    {
+      "productId": "PROD-048",
+      "title": "Surf Excel Matic Liquid 2L",
+      "category": "Essentials",
+      "brand": "Surf Excel",
+      "price": 499,
+      "size": "2L",
+      "color": null,
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Surf+Excel+Matic+Liq",
+      "attributes": {
+        "type": "laundry",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-049",
+      "title": "Himalaya Neem Face Wash 200ml",
+      "category": "Essentials",
+      "brand": "Himalaya",
+      "price": 199,
+      "size": "200ml",
+      "color": null,
+      "rating": 4.2,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Himalaya+Neem+Face+W",
+      "attributes": {
+        "type": "skincare",
+        "priceRange": "100-200"
+      }
+    },
+    {
+      "productId": "PROD-050",
+      "title": "Dove Moisturizing Body Wash 800ml",
+      "category": "Essentials",
+      "brand": "Dove",
+      "price": 399,
+      "size": "800ml",
+      "color": null,
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Dove+Moisturizing+Bo",
+      "attributes": {
+        "type": "bath",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-051",
+      "title": "Harpic Powerplus Toilet Cleaner 1L",
+      "category": "Essentials",
+      "brand": "Harpic",
+      "price": 149,
+      "size": "1L",
+      "color": null,
+      "rating": 4.3,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Harpic+Powerplus+Toi",
+      "attributes": {
+        "type": "cleaning",
+        "priceRange": "100-200"
+      }
+    },
+    {
+      "productId": "PROD-052",
+      "title": "Nivea Soft Moisturizing Cream 300ml",
+      "category": "Essentials",
+      "brand": "Nivea",
+      "price": 349,
+      "size": "300ml",
+      "color": null,
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Nivea+Soft+Moisturiz",
+      "attributes": {
+        "type": "skincare",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-053",
+      "title": "Whisper Ultra Clean Pads 30-Pack",
+      "category": "Essentials",
+      "brand": "Whisper",
+      "price": 329,
+      "size": "30 pack",
+      "color": null,
+      "rating": 4.6,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Whisper+Ultra+Clean+",
+      "attributes": {
+        "type": "hygiene",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-054",
+      "title": "Lizol Floor Cleaner 2L",
+      "category": "Essentials",
+      "brand": "Lizol",
+      "price": 349,
+      "size": "2L",
+      "color": null,
+      "rating": 4.2,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Lizol+Floor+Cleaner+",
+      "attributes": {
+        "type": "cleaning",
+        "priceRange": "200-500"
+      }
+    },
+    {
+      "productId": "PROD-055",
+      "title": "Parachute Advansed Coconut Hair Oil 300ml",
+      "category": "Essentials",
+      "brand": "Parachute",
+      "price": 199,
+      "size": "300ml",
+      "color": null,
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Parachute+Advansed+C",
+      "attributes": {
+        "type": "haircare",
+        "priceRange": "100-200"
+      }
+    },
+    {
+      "productId": "PROD-056",
+      "title": "Sensodyne Sensitive Toothpaste 150g",
+      "category": "Essentials",
+      "brand": "Sensodyne",
+      "price": 249,
+      "size": "150g",
+      "color": null,
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x300/f5f5f5/232f3e?text=Sensodyne+Sensitive+",
+      "attributes": {
+        "type": "oral-care",
+        "priceRange": "200-500"
+      }
+    }
+  ],
+  "categories": {
+    "Grocery": {
+      "requiredAttributes": [
+        "category"
+      ],
+      "optionalAttributes": [
+        "brand",
+        "priceRange",
+        "dietary"
+      ],
+      "discriminativeOrder": [
+        "brand",
+        "priceRange",
+        "dietary"
+      ]
+    },
+    "Fashion": {
+      "requiredAttributes": [
+        "category",
+        "subcategory"
+      ],
+      "optionalAttributes": [
+        "brand",
+        "size",
+        "color",
+        "priceRange",
+        "gender"
+      ],
+      "discriminativeOrder": [
+        "subcategory",
+        "brand",
+        "priceRange",
+        "size",
+        "color",
+        "gender"
+      ]
+    },
+    "Tools": {
+      "requiredAttributes": [
+        "category"
+      ],
+      "optionalAttributes": [
+        "brand",
+        "priceRange",
+        "type",
+        "powerSource"
+      ],
+      "discriminativeOrder": [
+        "type",
+        "brand",
+        "priceRange",
+        "powerSource"
+      ]
+    },
+    "Electronics": {
+      "requiredAttributes": [
+        "category",
+        "type"
+      ],
+      "optionalAttributes": [
+        "brand",
+        "priceRange",
+        "size",
+        "connectivity"
+      ],
+      "discriminativeOrder": [
+        "type",
+        "brand",
+        "priceRange",
+        "size",
+        "connectivity"
+      ]
+    },
+    "Essentials": {
+      "requiredAttributes": [
+        "category"
+      ],
+      "optionalAttributes": [
+        "brand",
+        "priceRange",
+        "type"
+      ],
+      "discriminativeOrder": [
+        "type",
+        "brand",
+        "priceRange"
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "searchTerm": "black adidas superstar",
+  "products": [
+    {
+      "productId": "B0DSFNVPPP",
+      "title": "adidas Mens Streeet Icon Lite M Sneaker Shoes",
+      "brand": "adidas",
+      "price": 2299.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61UxILurMiL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/adidas-Streeet-Sneaker-Shoes-Black/dp/B0DSFNVPPP/ref=sr_1_1?dib=eyJ2IjoiMSJ9.RpjEs16ZA9ob1YZ3RPrwRB-oARzY--1NMrEQ1ENBOQ0whcORohELgMMeVW3viNyxBQUDG7y7ojm-I8kWmr-5G8S_LZj8swZ2Y-fp773GkkVmuuzZvDsfGwKwBG9JrIpp5Q0VHvULeJiZ6k_SEujLXcTgX5we4b1ogC68QwoUweA9mgcej7qI_u6TRSwA8LHSGSuDQziZGvtpgaKp2D0lY0Zm42uY-PaaRpHjCMFJjcCeyqqGahGIZRK5lLHbjTxce0aMpNyny1SkGo_e-xEQAKjNVXZDfISNsfsve2-qEuQ.rjdjI7Akl5KNQS07zCCjzjNBlK4H0QXzVuiuFLfII8E&dib_tag=se&keywords=black+adidas+superstar&qid=1781331990&sr=8-1",
+      "isPrime": false,
+      "reviewCount": 278
+    },
+    {
+      "productId": "B0BSLJTW7H",
+      "title": "PUMA | Smashic Comfort Casual Sneakers",
+      "brand": "PUMA",
+      "price": 1569.0,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/41NtbP4mYoL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/Puma-Unisex-Adult-Smashic-Black-Matte-Sneaker/dp/B0BSLJTW7H/ref=sr_1_2?dib=eyJ2IjoiMSJ9.RpjEs16ZA9ob1YZ3RPrwRB-oARzY--1NMrEQ1ENBOQ0whcORohELgMMeVW3viNyxBQUDG7y7ojm-I8kWmr-5G8S_LZj8swZ2Y-fp773GkkVmuuzZvDsfGwKwBG9JrIpp5Q0VHvULeJiZ6k_SEujLXcTgX5we4b1ogC68QwoUweA9mgcej7qI_u6TRSwA8LHSGSuDQziZGvtpgaKp2D0lY0Zm42uY-PaaRpHjCMFJjcCeyqqGahGIZRK5lLHbjTxce0aMpNyny1SkGo_e-xEQAKjNVXZDfISNsfsve2-qEuQ.rjdjI7Akl5KNQS07zCCjzjNBlK4H0QXzVuiuFLfII8E&dib_tag=se&keywords=black+adidas+superstar&qid=1781331990&sr=8-2",
+      "isPrime": false,
+      "reviewCount": 4412
+    },
+    {
+      "productId": "B0FCHQW8GD",
+      "title": "adidas Men Sportswear Shoes | Grand Court Alpha 2.0 |",
+      "brand": "adidas",
+      "price": 7201.0,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/51A+sSjqDQL._AC_UL320_.jpg",
+      "url": "https://www.amazon.in/adidas-Grand-Court-Casual-Sneaker/dp/B0FCHQW8GD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.RpjEs16ZA9ob1YZ3RPrwRB-oARzY--1NMrEQ1ENBOQ0whcORohELgMMeVW3viNyxBQUDG7y7ojm-I8kWmr-5G8S_LZj8swZ2Y-fp773GkkVmuuzZvDsfGwKwBG9JrIpp5Q0VHvULeJiZ6k_SEujLXcTgX5we4b1ogC68QwoUweA9mgcej7qI_u6TRSwA8LHSGSuDQziZGvtpgaKp2D0lY0Zm42uY-PaaRpHjCMFJjcCeyqqGahGIZRK5lLHbjTxce0aMpNyny1SkGo_e-xEQAKjNVXZDfISNsfsve2-qEuQ.rjdjI7Akl5KNQS07zCCjzjNBlK4H0QXzVuiuFLfII8E&dib_tag=se&keywords=black+adidas+superstar&qid=1781331990&sr=8-3",
+      "isPrime": false,
+      "reviewCount": 26
+    }
+  ],
+  "source": "rainforest_api",
+  "domain": "amazon.in"
+}
